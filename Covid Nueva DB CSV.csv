@@ -1,0 +1,1291 @@
+Data_As_Of,Start_Date,End_Date,Groups,State,Sex,Age_Group,COVID_19_Deaths,Total_Deaths,Pneumonia_Deaths,Pneumonia_and_COVID_19_Deaths,Influenza_Deaths,Pneumonia_Influenza_or_COVID_19_Deaths,Footnote
+07/19/2023,01/01/2020,01/31/2020,By Month,California,All Sexes,All Ages,0,25756,2028,0,274,2302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,Florida,All Sexes,All Ages,0,19486,1134,0,150,1284,
+07/19/2023,01/01/2020,01/31/2020,By Month,Ohio,All Sexes,All Ages,0,11279,616,0,75,691,
+07/19/2023,01/01/2020,01/31/2020,By Month,Pennsylvania,All Sexes,All Ages,0,12522,747,0,77,824,
+07/19/2023,01/01/2020,01/31/2020,By Month,Texas,All Sexes,All Ages,0,19050,1412,0,184,1596,
+07/19/2023,02/01/2020,02/29/2020,By Month,California,All Sexes,All Ages,0,23824,1845,0,296,2143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2020,02/29/2020,By Month,Florida,All Sexes,All Ages,0,18207,1140,0,130,1270,
+07/19/2023,02/01/2020,02/29/2020,By Month,Ohio,All Sexes,All Ages,0,10367,535,0,91,626,
+07/19/2023,02/01/2020,02/29/2020,By Month,Pennsylvania,All Sexes,All Ages,0,11462,626,0,90,716,
+07/19/2023,02/01/2020,02/29/2020,By Month,Texas,All Sexes,All Ages,0,17629,1202,0,160,1363,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2020,03/31/2020,By Month,California,All Sexes,All Ages,279,25119,2241,149,189,2560,
+07/19/2023,03/01/2020,03/31/2020,By Month,Florida,All Sexes,All Ages,191,19683,1514,106,101,1699,
+07/19/2023,03/01/2020,03/31/2020,By Month,Ohio,All Sexes,All Ages,98,11151,726,44,111,891,
+07/19/2023,03/01/2020,03/31/2020,By Month,Pennsylvania,All Sexes,All Ages,104,12125,817,51,133,1003,
+07/19/2023,03/01/2020,03/31/2020,By Month,Texas,All Sexes,All Ages,99,18576,1412,32,116,1593,
+07/19/2023,04/01/2020,04/30/2020,By Month,California,All Sexes,All Ages,2021,25617,2907,1156,31,3803,
+07/19/2023,04/01/2020,04/30/2020,By Month,Florida,All Sexes,All Ages,1311,19210,1908,691,31,2554,
+07/19/2023,04/01/2020,04/30/2020,By Month,Ohio,All Sexes,All Ages,1063,11528,1037,458,23,1664,
+07/19/2023,04/01/2020,04/30/2020,By Month,Pennsylvania,All Sexes,All Ages,3502,15430,2047,1321,16,4240,
+07/19/2023,04/01/2020,04/30/2020,By Month,Texas,All Sexes,All Ages,934,18572,1660,392,24,2226,
+07/19/2023,05/01/2020,05/31/2020,By Month,California,All Sexes,All Ages,2238,24935,2578,1222,0,3599,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Florida,All Sexes,All Ages,1131,19097,1585,571,14,2156,
+07/19/2023,05/01/2020,05/31/2020,By Month,Ohio,All Sexes,All Ages,1158,11704,900,451,0,1612,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Pennsylvania,All Sexes,All Ages,2711,13857,1478,980,0,3212,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Texas,All Sexes,All Ages,964,18731,1560,449,13,2087,
+07/19/2023,06/01/2020,06/30/2020,By Month,California,All Sexes,All Ages,2065,23984,2329,1096,0,3302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Florida,All Sexes,All Ages,1083,18799,1507,548,0,2043,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Ohio,All Sexes,All Ages,559,10572,624,225,0,960,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Pennsylvania,All Sexes,All Ages,830,11221,658,237,0,1252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Texas,All Sexes,All Ages,1436,19173,1629,612,0,2456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,California,All Sexes,All Ages,3890,27365,3459,2136,0,5213,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Florida,All Sexes,All Ages,4980,23956,3502,2486,11,6001,
+07/19/2023,07/01/2020,07/31/2020,By Month,Ohio,All Sexes,All Ages,681,11258,746,285,0,1145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Pennsylvania,All Sexes,All Ages,499,11543,593,157,0,935,
+07/19/2023,07/01/2020,07/31/2020,By Month,Texas,All Sexes,All Ages,6971,26487,4703,3593,11,8087,
+07/19/2023,08/01/2020,08/31/2020,By Month,California,All Sexes,All Ages,3761,27535,3399,2150,0,5011,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Florida,All Sexes,All Ages,4786,23539,3785,2792,10,5782,
+07/19/2023,08/01/2020,08/31/2020,By Month,Ohio,All Sexes,All Ages,785,11450,803,352,0,1238,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Pennsylvania,All Sexes,All Ages,506,11505,597,171,0,932,
+07/19/2023,08/01/2020,08/31/2020,By Month,Texas,All Sexes,All Ages,5147,23894,3829,2795,0,6186,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,California,All Sexes,All Ages,2071,24488,2355,1172,0,3254,
+07/19/2023,09/01/2020,09/30/2020,By Month,Florida,All Sexes,All Ages,2023,19523,2180,1202,0,3005,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Ohio,All Sexes,All Ages,638,10901,676,275,0,1040,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Pennsylvania,All Sexes,All Ages,418,11348,572,136,0,854,
+07/19/2023,09/01/2020,09/30/2020,By Month,Texas,All Sexes,All Ages,2342,19891,2224,1260,0,3311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,California,All Sexes,All Ages,1463,24533,2058,817,0,2707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Florida,All Sexes,All Ages,1410,19371,1827,833,0,2405,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Ohio,All Sexes,All Ages,990,11899,868,418,0,1440,
+07/19/2023,10/01/2020,10/31/2020,By Month,Pennsylvania,All Sexes,All Ages,726,12086,751,289,0,1188,
+07/19/2023,10/01/2020,10/31/2020,By Month,Texas,All Sexes,All Ages,2867,21227,2586,1574,12,3890,
+07/19/2023,11/01/2020,11/30/2020,By Month,California,All Sexes,All Ages,2580,26526,2745,1393,0,3934,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Florida,All Sexes,All Ages,1767,19315,2148,1180,12,2742,
+07/19/2023,11/01/2020,11/30/2020,By Month,Ohio,All Sexes,All Ages,3074,13940,1836,1348,0,3563,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Pennsylvania,All Sexes,All Ages,2565,14215,1619,1063,0,3125,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Texas,All Sexes,All Ages,5224,23446,4038,3025,14,6245,
+07/19/2023,12/01/2020,12/31/2020,By Month,California,All Sexes,All Ages,13207,41094,9090,7498,11,14802,
+07/19/2023,12/01/2020,12/31/2020,By Month,Florida,All Sexes,All Ages,3145,22879,3207,2077,18,4288,
+07/19/2023,12/01/2020,12/31/2020,By Month,Ohio,All Sexes,All Ages,6051,17897,3410,2831,0,6632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Pennsylvania,All Sexes,All Ages,6546,19289,3139,2580,0,7107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Texas,All Sexes,All Ages,7557,27012,5412,4298,26,8680,
+07/19/2023,01/01/2021,01/31/2021,By Month,California,All Sexes,All Ages,20065,48148,13802,12191,16,21687,
+07/19/2023,01/01/2021,01/31/2021,By Month,Florida,All Sexes,All Ages,5022,24926,4526,3363,0,6192,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Ohio,All Sexes,All Ages,4187,15200,2543,2027,0,4707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Pennsylvania,All Sexes,All Ages,4807,17063,2717,2138,0,5390,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Texas,All Sexes,All Ages,10725,30681,7364,6199,20,11896,
+07/19/2023,02/01/2021,02/28/2021,By Month,California,All Sexes,All Ages,7715,30047,6267,4961,11,9029,
+07/19/2023,02/01/2021,02/28/2021,By Month,Florida,All Sexes,All Ages,3202,20961,3158,2150,0,4216,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Ohio,All Sexes,All Ages,1643,11640,1220,801,0,2063,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Pennsylvania,All Sexes,All Ages,1935,12556,1388,920,0,2404,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Texas,All Sexes,All Ages,5831,24064,4427,3409,15,6855,
+07/19/2023,03/01/2021,03/31/2021,By Month,California,All Sexes,All Ages,2337,26792,2776,1441,0,3675,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Florida,All Sexes,All Ages,1829,20623,2292,1261,0,2864,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Ohio,All Sexes,All Ages,779,11043,867,386,0,1262,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Pennsylvania,All Sexes,All Ages,1008,12127,936,481,0,1465,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Texas,All Sexes,All Ages,2673,21061,2634,1601,10,3716,
+07/19/2023,04/01/2021,04/30/2021,By Month,California,All Sexes,All Ages,1008,23276,1719,552,0,2176,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Florida,All Sexes,All Ages,1513,19804,1983,1018,0,2482,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Ohio,All Sexes,All Ages,672,10628,737,336,0,1075,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1252,12002,1034,629,0,1658,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Texas,All Sexes,All Ages,1460,19162,1810,836,0,2440,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,California,All Sexes,All Ages,695,23503,1527,366,0,1858,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Florida,All Sexes,All Ages,1327,20058,1833,935,0,2229,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Ohio,All Sexes,All Ages,548,10883,715,286,0,978,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Pennsylvania,All Sexes,All Ages,891,11913,878,479,0,1290,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Texas,All Sexes,All Ages,1209,19221,1568,664,0,2117,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,California,All Sexes,All Ages,450,22731,1353,229,0,1574,
+07/19/2023,06/01/2021,06/30/2021,By Month,Florida,All Sexes,All Ages,834,18947,1493,565,0,1763,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Ohio,All Sexes,All Ages,328,10087,554,156,0,727,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Pennsylvania,All Sexes,All Ages,341,10801,566,164,0,743,
+07/19/2023,06/01/2021,06/30/2021,By Month,Texas,All Sexes,All Ages,766,18462,1360,442,0,1687,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,California,All Sexes,All Ages,822,23772,1624,465,0,1981,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Florida,All Sexes,All Ages,1997,21054,2394,1313,0,3082,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Ohio,All Sexes,All Ages,218,10383,528,95,0,651,
+07/19/2023,07/01/2021,07/31/2021,By Month,Pennsylvania,All Sexes,All Ages,172,11107,532,75,0,629,
+07/19/2023,07/01/2021,07/31/2021,By Month,Texas,All Sexes,All Ages,1343,19837,1778,765,0,2360,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,California,All Sexes,All Ages,3413,27128,3425,2128,0,4710,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Florida,All Sexes,All Ages,10406,30209,8391,7312,0,11487,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Ohio,All Sexes,All Ages,804,11402,840,426,0,1218,
+07/19/2023,08/01/2021,08/31/2021,By Month,Pennsylvania,All Sexes,All Ages,595,11781,782,315,0,1062,
+07/19/2023,08/01/2021,08/31/2021,By Month,Texas,All Sexes,All Ages,7321,26563,5499,4427,13,8399,
+07/19/2023,09/01/2021,09/30/2021,By Month,California,All Sexes,All Ages,4264,27310,4135,2890,0,5511,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Florida,All Sexes,All Ages,8334,26986,6865,5811,0,9392,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Ohio,All Sexes,All Ages,2345,12983,1903,1428,0,2820,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1373,12563,1281,747,0,1909,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Texas,All Sexes,All Ages,8794,27271,6474,5471,15,9809,
+07/19/2023,10/01/2021,10/31/2021,By Month,California,All Sexes,All Ages,2780,27229,3150,1851,0,4081,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Florida,All Sexes,All Ages,2657,21422,2880,1801,0,3738,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Ohio,All Sexes,All Ages,2694,13753,2167,1663,0,3200,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Pennsylvania,All Sexes,All Ages,2263,13942,1757,1218,0,2803,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Texas,All Sexes,All Ages,4449,23097,3783,2817,13,5425,
+07/19/2023,11/01/2021,11/30/2021,By Month,California,All Sexes,All Ages,2428,25838,2955,1578,0,3808,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Florida,All Sexes,All Ages,889,19295,1564,582,0,1876,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Ohio,All Sexes,All Ages,2241,13472,1854,1307,0,2788,
+07/19/2023,11/01/2021,11/30/2021,By Month,Pennsylvania,All Sexes,All Ages,2338,14151,1868,1303,0,2904,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Texas,All Sexes,All Ages,1957,20451,2169,1166,0,2967,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,California,All Sexes,All Ages,2352,28830,3155,1495,0,4019,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,Florida,All Sexes,All Ages,863,20498,1614,513,22,1983,
+07/19/2023,12/01/2021,12/31/2021,By Month,Ohio,All Sexes,All Ages,4077,16091,3067,2441,17,4719,
+07/19/2023,12/01/2021,12/31/2021,By Month,Pennsylvania,All Sexes,All Ages,3571,16228,2629,2001,28,4225,
+07/19/2023,12/01/2021,12/31/2021,By Month,Texas,All Sexes,All Ages,2259,21620,2522,1355,46,3467,
+07/19/2023,01/01/2022,01/31/2022,By Month,California,All Sexes,All Ages,6852,34938,5586,3918,20,8536,
+07/19/2023,01/01/2022,01/31/2022,By Month,Florida,All Sexes,All Ages,4615,25552,4155,2904,31,5890,
+07/19/2023,01/01/2022,01/31/2022,By Month,Ohio,All Sexes,All Ages,4956,16989,3352,2738,22,5587,
+07/19/2023,01/01/2022,01/31/2022,By Month,Pennsylvania,All Sexes,All Ages,4513,17570,2888,2228,30,5193,
+07/19/2023,01/01/2022,01/31/2022,By Month,Texas,All Sexes,All Ages,6489,27880,4835,3585,40,7762,
+07/19/2023,02/01/2022,02/28/2022,By Month,California,All Sexes,All Ages,4974,28610,4341,2946,12,6375,
+07/19/2023,02/01/2022,02/28/2022,By Month,Florida,All Sexes,All Ages,3458,21707,3127,2110,17,4489,
+07/19/2023,02/01/2022,02/28/2022,By Month,Ohio,All Sexes,All Ages,2088,11959,1509,1072,10,2533,
+07/19/2023,02/01/2022,02/28/2022,By Month,Pennsylvania,All Sexes,All Ages,1906,12654,1330,873,25,2378,
+07/19/2023,02/01/2022,02/28/2022,By Month,Texas,All Sexes,All Ages,4803,23084,3756,2781,25,5790,
+07/19/2023,03/01/2022,03/31/2022,By Month,California,All Sexes,All Ages,1489,25534,2135,791,0,2838,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2022,03/31/2022,By Month,Florida,All Sexes,All Ages,1111,20500,1660,584,22,2208,
+07/19/2023,03/01/2022,03/31/2022,By Month,Ohio,All Sexes,All Ages,674,11182,743,272,10,1152,
+07/19/2023,03/01/2022,03/31/2022,By Month,Pennsylvania,All Sexes,All Ages,591,12052,717,260,15,1061,
+07/19/2023,03/01/2022,03/31/2022,By Month,Texas,All Sexes,All Ages,1363,20441,1716,692,44,2426,
+07/19/2023,04/01/2022,04/30/2022,By Month,California,All Sexes,All Ages,522,23315,1452,211,0,1770,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Florida,All Sexes,All Ages,456,18632,1162,184,10,1441,
+07/19/2023,04/01/2022,04/30/2022,By Month,Ohio,All Sexes,All Ages,279,10190,527,91,0,724,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Pennsylvania,All Sexes,All Ages,298,11129,590,100,24,811,
+07/19/2023,04/01/2022,04/30/2022,By Month,Texas,All Sexes,All Ages,437,18218,1134,193,31,1405,
+07/19/2023,05/01/2022,05/31/2022,By Month,California,All Sexes,All Ages,614,24195,1498,226,23,1908,
+07/19/2023,05/01/2022,05/31/2022,By Month,Florida,All Sexes,All Ages,536,19181,1256,231,19,1578,
+07/19/2023,05/01/2022,05/31/2022,By Month,Ohio,All Sexes,All Ages,284,10404,495,73,14,719,
+07/19/2023,05/01/2022,05/31/2022,By Month,Pennsylvania,All Sexes,All Ages,466,11419,601,140,18,944,
+07/19/2023,05/01/2022,05/31/2022,By Month,Texas,All Sexes,All Ages,323,18427,1058,124,14,1270,
+07/19/2023,06/01/2022,06/30/2022,By Month,California,All Sexes,All Ages,949,23922,1527,371,51,2153,
+07/19/2023,06/01/2022,06/30/2022,By Month,Florida,All Sexes,All Ages,1016,19196,1438,438,51,2066,
+07/19/2023,06/01/2022,06/30/2022,By Month,Ohio,All Sexes,All Ages,335,10160,518,111,0,748,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2022,06/30/2022,By Month,Pennsylvania,All Sexes,All Ages,490,11115,612,147,12,966,
+07/19/2023,06/01/2022,06/30/2022,By Month,Texas,All Sexes,All Ages,518,18491,1079,206,17,1404,
+07/19/2023,07/01/2022,07/31/2022,By Month,California,All Sexes,All Ages,1574,25322,1798,593,13,2791,
+07/19/2023,07/01/2022,07/31/2022,By Month,Florida,All Sexes,All Ages,1455,19805,1610,609,18,2471,
+07/19/2023,07/01/2022,07/31/2022,By Month,Ohio,All Sexes,All Ages,455,10700,542,128,0,871,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Pennsylvania,All Sexes,All Ages,455,11272,565,136,0,886,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Texas,All Sexes,All Ages,1090,20115,1381,417,0,2055,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,California,All Sexes,All Ages,1391,25167,1738,501,0,2632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Florida,All Sexes,All Ages,1478,19938,1627,663,16,2453,
+07/19/2023,08/01/2022,08/31/2022,By Month,Ohio,All Sexes,All Ages,652,10745,615,206,0,1062,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Pennsylvania,All Sexes,All Ages,551,11354,586,166,0,971,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Texas,All Sexes,All Ages,1132,19550,1341,467,0,2012,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,California,All Sexes,All Ages,913,24400,1613,360,0,2171,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Florida,All Sexes,All Ages,950,18787,1319,401,11,1879,
+07/19/2023,09/01/2022,09/30/2022,By Month,Ohio,All Sexes,All Ages,560,10407,546,171,0,937,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Pennsylvania,All Sexes,All Ages,525,11112,562,167,0,920,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Texas,All Sexes,All Ages,745,18507,1219,287,11,1686,
+07/19/2023,10/01/2022,10/31/2022,By Month,California,All Sexes,All Ages,592,24056,1483,219,21,1875,
+07/19/2023,10/01/2022,10/31/2022,By Month,Florida,All Sexes,All Ages,631,19588,1349,269,14,1724,
+07/19/2023,10/01/2022,10/31/2022,By Month,Ohio,All Sexes,All Ages,475,11201,611,137,0,954,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Pennsylvania,All Sexes,All Ages,598,12330,692,187,0,1109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Texas,All Sexes,All Ages,477,19316,1120,186,39,1449,
+07/19/2023,11/01/2022,11/30/2022,By Month,California,All Sexes,All Ages,845,25984,1864,324,128,2510,
+07/19/2023,11/01/2022,11/30/2022,By Month,Florida,All Sexes,All Ages,494,18851,1245,219,63,1578,
+07/19/2023,11/01/2022,11/30/2022,By Month,Ohio,All Sexes,All Ages,549,11411,661,168,46,1085,
+07/19/2023,11/01/2022,11/30/2022,By Month,Pennsylvania,All Sexes,All Ages,610,12106,726,173,39,1196,
+07/19/2023,11/01/2022,11/30/2022,By Month,Texas,All Sexes,All Ages,401,19482,1210,163,157,1598,
+07/19/2023,12/01/2022,12/31/2022,By Month,California,All Sexes,All Ages,1704,30085,2717,713,383,4072,
+07/19/2023,12/01/2022,12/31/2022,By Month,Florida,All Sexes,All Ages,699,20806,1643,359,124,2100,
+07/19/2023,12/01/2022,12/31/2022,By Month,Ohio,All Sexes,All Ages,666,12814,780,195,243,1482,
+07/19/2023,12/01/2022,12/31/2022,By Month,Pennsylvania,All Sexes,All Ages,639,13632,834,178,212,1494,
+07/19/2023,12/01/2022,12/31/2022,By Month,Texas,All Sexes,All Ages,836,21909,1718,387,205,2355,
+07/19/2023,01/01/2023,01/31/2023,By Month,California,All Sexes,All Ages,1321,28193,2401,544,134,3295,
+07/19/2023,01/01/2023,01/31/2023,By Month,Florida,All Sexes,All Ages,991,22014,1905,525,137,2500,
+07/19/2023,01/01/2023,01/31/2023,By Month,Ohio,All Sexes,All Ages,631,11799,797,202,103,1323,
+07/19/2023,01/01/2023,01/31/2023,By Month,Pennsylvania,All Sexes,All Ages,749,13039,903,251,128,1525,
+07/19/2023,01/01/2023,01/31/2023,By Month,Texas,All Sexes,All Ages,1107,21623,1799,531,110,2472,
+07/19/2023,02/01/2023,02/28/2023,By Month,California,All Sexes,All Ages,749,24692,1928,316,16,2376,
+07/19/2023,02/01/2023,02/28/2023,By Month,Florida,All Sexes,All Ages,664,18687,1446,331,37,1812,
+07/19/2023,02/01/2023,02/28/2023,By Month,Ohio,All Sexes,All Ages,329,10172,532,91,15,783,
+07/19/2023,02/01/2023,02/28/2023,By Month,Pennsylvania,All Sexes,All Ages,473,11169,646,142,20,994,
+07/19/2023,02/01/2023,02/28/2023,By Month,Texas,All Sexes,All Ages,630,18858,1362,306,41,1720,
+07/19/2023,03/01/2023,03/31/2023,By Month,California,All Sexes,All Ages,708,26552,1909,298,15,2332,
+07/19/2023,03/01/2023,03/31/2023,By Month,Florida,All Sexes,All Ages,460,20298,1340,201,34,1631,
+07/19/2023,03/01/2023,03/31/2023,By Month,Ohio,All Sexes,All Ages,380,11313,594,128,0,853,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2023,03/31/2023,By Month,Pennsylvania,All Sexes,All Ages,409,12033,679,110,13,990,
+07/19/2023,03/01/2023,03/31/2023,By Month,Texas,All Sexes,All Ages,456,19880,1282,196,26,1562,
+07/19/2023,04/01/2023,04/30/2023,By Month,California,All Sexes,All Ages,480,24350,1650,187,10,1952,
+07/19/2023,04/01/2023,04/30/2023,By Month,Florida,All Sexes,All Ages,351,18935,1244,155,17,1456,
+07/19/2023,04/01/2023,04/30/2023,By Month,Ohio,All Sexes,All Ages,270,10573,570,104,0,740,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Pennsylvania,All Sexes,All Ages,230,11170,627,72,0,789,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Texas,All Sexes,All Ages,320,18540,1108,147,15,1293,
+07/19/2023,05/01/2023,05/31/2023,By Month,California,All Sexes,All Ages,359,23641,1512,137,0,1743,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Florida,All Sexes,All Ages,292,18948,1169,131,17,1345,
+07/19/2023,05/01/2023,05/31/2023,By Month,Ohio,All Sexes,All Ages,158,10462,499,52,0,607,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Pennsylvania,All Sexes,All Ages,135,11230,510,44,0,604,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Texas,All Sexes,All Ages,223,18611,1088,111,11,1210,
+07/19/2023,06/01/2023,06/30/2023,By Month,California,All Sexes,All Ages,270,21290,1389,115,0,1551,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Florida,All Sexes,All Ages,288,17669,1061,124,11,1236,
+07/19/2023,06/01/2023,06/30/2023,By Month,Ohio,All Sexes,All Ages,96,8949,384,26,0,456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Pennsylvania,All Sexes,All Ages,97,10334,473,27,0,547,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Texas,All Sexes,All Ages,128,16246,884,53,0,966,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,California,All Sexes,All Ages,52,4985,293,22,0,324,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Florida,All Sexes,All Ages,87,5142,279,38,0,334,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Ohio,All Sexes,All Ages,0,1786,65,0,0,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Pennsylvania,All Sexes,All Ages,12,1518,78,0,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Texas,All Sexes,All Ages,15,3648,183,0,0,194,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,California,All Sexes,All Ages,0,25756,2028,0,274,2302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,Florida,All Sexes,All Ages,0,19486,1134,0,150,1284,
+07/19/2023,01/01/2020,01/31/2020,By Month,Ohio,All Sexes,All Ages,0,11279,616,0,75,691,
+07/19/2023,01/01/2020,01/31/2020,By Month,Pennsylvania,All Sexes,All Ages,0,12522,747,0,77,824,
+07/19/2023,01/01/2020,01/31/2020,By Month,Texas,All Sexes,All Ages,0,19050,1412,0,184,1596,
+07/19/2023,02/01/2020,02/29/2020,By Month,California,All Sexes,All Ages,0,23824,1845,0,296,2143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2020,02/29/2020,By Month,Florida,All Sexes,All Ages,0,18207,1140,0,130,1270,
+07/19/2023,02/01/2020,02/29/2020,By Month,Ohio,All Sexes,All Ages,0,10367,535,0,91,626,
+07/19/2023,02/01/2020,02/29/2020,By Month,Pennsylvania,All Sexes,All Ages,0,11462,626,0,90,716,
+07/19/2023,02/01/2020,02/29/2020,By Month,Texas,All Sexes,All Ages,0,17629,1202,0,160,1363,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2020,03/31/2020,By Month,California,All Sexes,All Ages,279,25119,2241,149,189,2560,
+07/19/2023,03/01/2020,03/31/2020,By Month,Florida,All Sexes,All Ages,191,19683,1514,106,101,1699,
+07/19/2023,03/01/2020,03/31/2020,By Month,Ohio,All Sexes,All Ages,98,11151,726,44,111,891,
+07/19/2023,03/01/2020,03/31/2020,By Month,Pennsylvania,All Sexes,All Ages,104,12125,817,51,133,1003,
+07/19/2023,03/01/2020,03/31/2020,By Month,Texas,All Sexes,All Ages,99,18576,1412,32,116,1593,
+07/19/2023,04/01/2020,04/30/2020,By Month,California,All Sexes,All Ages,2021,25617,2907,1156,31,3803,
+07/19/2023,04/01/2020,04/30/2020,By Month,Florida,All Sexes,All Ages,1311,19210,1908,691,31,2554,
+07/19/2023,04/01/2020,04/30/2020,By Month,Ohio,All Sexes,All Ages,1063,11528,1037,458,23,1664,
+07/19/2023,04/01/2020,04/30/2020,By Month,Pennsylvania,All Sexes,All Ages,3502,15430,2047,1321,16,4240,
+07/19/2023,04/01/2020,04/30/2020,By Month,Texas,All Sexes,All Ages,934,18572,1660,392,24,2226,
+07/19/2023,05/01/2020,05/31/2020,By Month,California,All Sexes,All Ages,2238,24935,2578,1222,0,3599,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Florida,All Sexes,All Ages,1131,19097,1585,571,14,2156,
+07/19/2023,05/01/2020,05/31/2020,By Month,Ohio,All Sexes,All Ages,1158,11704,900,451,0,1612,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Pennsylvania,All Sexes,All Ages,2711,13857,1478,980,0,3212,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Texas,All Sexes,All Ages,964,18731,1560,449,13,2087,
+07/19/2023,06/01/2020,06/30/2020,By Month,California,All Sexes,All Ages,2065,23984,2329,1096,0,3302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Florida,All Sexes,All Ages,1083,18799,1507,548,0,2043,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Ohio,All Sexes,All Ages,559,10572,624,225,0,960,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Pennsylvania,All Sexes,All Ages,830,11221,658,237,0,1252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Texas,All Sexes,All Ages,1436,19173,1629,612,0,2456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,California,All Sexes,All Ages,3890,27365,3459,2136,0,5213,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Florida,All Sexes,All Ages,4980,23956,3502,2486,11,6001,
+07/19/2023,07/01/2020,07/31/2020,By Month,Ohio,All Sexes,All Ages,681,11258,746,285,0,1145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Pennsylvania,All Sexes,All Ages,499,11543,593,157,0,935,
+07/19/2023,07/01/2020,07/31/2020,By Month,Texas,All Sexes,All Ages,6971,26487,4703,3593,11,8087,
+07/19/2023,08/01/2020,08/31/2020,By Month,California,All Sexes,All Ages,3761,27535,3399,2150,0,5011,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Florida,All Sexes,All Ages,4786,23539,3785,2792,10,5782,
+07/19/2023,08/01/2020,08/31/2020,By Month,Ohio,All Sexes,All Ages,785,11450,803,352,0,1238,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Pennsylvania,All Sexes,All Ages,506,11505,597,171,0,932,
+07/19/2023,08/01/2020,08/31/2020,By Month,Texas,All Sexes,All Ages,5147,23894,3829,2795,0,6186,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,California,All Sexes,All Ages,2071,24488,2355,1172,0,3254,
+07/19/2023,09/01/2020,09/30/2020,By Month,Florida,All Sexes,All Ages,2023,19523,2180,1202,0,3005,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Ohio,All Sexes,All Ages,638,10901,676,275,0,1040,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Pennsylvania,All Sexes,All Ages,418,11348,572,136,0,854,
+07/19/2023,09/01/2020,09/30/2020,By Month,Texas,All Sexes,All Ages,2342,19891,2224,1260,0,3311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,California,All Sexes,All Ages,1463,24533,2058,817,0,2707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Florida,All Sexes,All Ages,1410,19371,1827,833,0,2405,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Ohio,All Sexes,All Ages,990,11899,868,418,0,1440,
+07/19/2023,10/01/2020,10/31/2020,By Month,Pennsylvania,All Sexes,All Ages,726,12086,751,289,0,1188,
+07/19/2023,10/01/2020,10/31/2020,By Month,Texas,All Sexes,All Ages,2867,21227,2586,1574,12,3890,
+07/19/2023,11/01/2020,11/30/2020,By Month,California,All Sexes,All Ages,2580,26526,2745,1393,0,3934,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Florida,All Sexes,All Ages,1767,19315,2148,1180,12,2742,
+07/19/2023,11/01/2020,11/30/2020,By Month,Ohio,All Sexes,All Ages,3074,13940,1836,1348,0,3563,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Pennsylvania,All Sexes,All Ages,2565,14215,1619,1063,0,3125,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Texas,All Sexes,All Ages,5224,23446,4038,3025,14,6245,
+07/19/2023,12/01/2020,12/31/2020,By Month,California,All Sexes,All Ages,13207,41094,9090,7498,11,14802,
+07/19/2023,12/01/2020,12/31/2020,By Month,Florida,All Sexes,All Ages,3145,22879,3207,2077,18,4288,
+07/19/2023,12/01/2020,12/31/2020,By Month,Ohio,All Sexes,All Ages,6051,17897,3410,2831,0,6632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Pennsylvania,All Sexes,All Ages,6546,19289,3139,2580,0,7107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Texas,All Sexes,All Ages,7557,27012,5412,4298,26,8680,
+07/19/2023,01/01/2021,01/31/2021,By Month,California,All Sexes,All Ages,20065,48148,13802,12191,16,21687,
+07/19/2023,01/01/2021,01/31/2021,By Month,Florida,All Sexes,All Ages,5022,24926,4526,3363,0,6192,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Ohio,All Sexes,All Ages,4187,15200,2543,2027,0,4707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Pennsylvania,All Sexes,All Ages,4807,17063,2717,2138,0,5390,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Texas,All Sexes,All Ages,10725,30681,7364,6199,20,11896,
+07/19/2023,02/01/2021,02/28/2021,By Month,California,All Sexes,All Ages,7715,30047,6267,4961,11,9029,
+07/19/2023,02/01/2021,02/28/2021,By Month,Florida,All Sexes,All Ages,3202,20961,3158,2150,0,4216,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Ohio,All Sexes,All Ages,1643,11640,1220,801,0,2063,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Pennsylvania,All Sexes,All Ages,1935,12556,1388,920,0,2404,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Texas,All Sexes,All Ages,5831,24064,4427,3409,15,6855,
+07/19/2023,03/01/2021,03/31/2021,By Month,California,All Sexes,All Ages,2337,26792,2776,1441,0,3675,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Florida,All Sexes,All Ages,1829,20623,2292,1261,0,2864,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Ohio,All Sexes,All Ages,779,11043,867,386,0,1262,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Pennsylvania,All Sexes,All Ages,1008,12127,936,481,0,1465,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Texas,All Sexes,All Ages,2673,21061,2634,1601,10,3716,
+07/19/2023,04/01/2021,04/30/2021,By Month,California,All Sexes,All Ages,1008,23276,1719,552,0,2176,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Florida,All Sexes,All Ages,1513,19804,1983,1018,0,2482,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Ohio,All Sexes,All Ages,672,10628,737,336,0,1075,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1252,12002,1034,629,0,1658,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Texas,All Sexes,All Ages,1460,19162,1810,836,0,2440,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,California,All Sexes,All Ages,695,23503,1527,366,0,1858,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Florida,All Sexes,All Ages,1327,20058,1833,935,0,2229,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Ohio,All Sexes,All Ages,548,10883,715,286,0,978,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Pennsylvania,All Sexes,All Ages,891,11913,878,479,0,1290,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Texas,All Sexes,All Ages,1209,19221,1568,664,0,2117,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,California,All Sexes,All Ages,450,22731,1353,229,0,1574,
+07/19/2023,06/01/2021,06/30/2021,By Month,Florida,All Sexes,All Ages,834,18947,1493,565,0,1763,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Ohio,All Sexes,All Ages,328,10087,554,156,0,727,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Pennsylvania,All Sexes,All Ages,341,10801,566,164,0,743,
+07/19/2023,06/01/2021,06/30/2021,By Month,Texas,All Sexes,All Ages,766,18462,1360,442,0,1687,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,California,All Sexes,All Ages,822,23772,1624,465,0,1981,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Florida,All Sexes,All Ages,1997,21054,2394,1313,0,3082,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Ohio,All Sexes,All Ages,218,10383,528,95,0,651,
+07/19/2023,07/01/2021,07/31/2021,By Month,Pennsylvania,All Sexes,All Ages,172,11107,532,75,0,629,
+07/19/2023,07/01/2021,07/31/2021,By Month,Texas,All Sexes,All Ages,1343,19837,1778,765,0,2360,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,California,All Sexes,All Ages,3413,27128,3425,2128,0,4710,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Florida,All Sexes,All Ages,10406,30209,8391,7312,0,11487,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Ohio,All Sexes,All Ages,804,11402,840,426,0,1218,
+07/19/2023,08/01/2021,08/31/2021,By Month,Pennsylvania,All Sexes,All Ages,595,11781,782,315,0,1062,
+07/19/2023,08/01/2021,08/31/2021,By Month,Texas,All Sexes,All Ages,7321,26563,5499,4427,13,8399,
+07/19/2023,09/01/2021,09/30/2021,By Month,California,All Sexes,All Ages,4264,27310,4135,2890,0,5511,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Florida,All Sexes,All Ages,8334,26986,6865,5811,0,9392,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Ohio,All Sexes,All Ages,2345,12983,1903,1428,0,2820,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1373,12563,1281,747,0,1909,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Texas,All Sexes,All Ages,8794,27271,6474,5471,15,9809,
+07/19/2023,10/01/2021,10/31/2021,By Month,California,All Sexes,All Ages,2780,27229,3150,1851,0,4081,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Florida,All Sexes,All Ages,2657,21422,2880,1801,0,3738,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Ohio,All Sexes,All Ages,2694,13753,2167,1663,0,3200,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Pennsylvania,All Sexes,All Ages,2263,13942,1757,1218,0,2803,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Texas,All Sexes,All Ages,4449,23097,3783,2817,13,5425,
+07/19/2023,11/01/2021,11/30/2021,By Month,California,All Sexes,All Ages,2428,25838,2955,1578,0,3808,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Florida,All Sexes,All Ages,889,19295,1564,582,0,1876,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Ohio,All Sexes,All Ages,2241,13472,1854,1307,0,2788,
+07/19/2023,11/01/2021,11/30/2021,By Month,Pennsylvania,All Sexes,All Ages,2338,14151,1868,1303,0,2904,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Texas,All Sexes,All Ages,1957,20451,2169,1166,0,2967,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,California,All Sexes,All Ages,2352,28830,3155,1495,0,4019,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,Florida,All Sexes,All Ages,863,20498,1614,513,22,1983,
+07/19/2023,12/01/2021,12/31/2021,By Month,Ohio,All Sexes,All Ages,4077,16091,3067,2441,17,4719,
+07/19/2023,12/01/2021,12/31/2021,By Month,Pennsylvania,All Sexes,All Ages,3571,16228,2629,2001,28,4225,
+07/19/2023,12/01/2021,12/31/2021,By Month,Texas,All Sexes,All Ages,2259,21620,2522,1355,46,3467,
+07/19/2023,01/01/2022,01/31/2022,By Month,California,All Sexes,All Ages,6852,34938,5586,3918,20,8536,
+07/19/2023,01/01/2022,01/31/2022,By Month,Florida,All Sexes,All Ages,4615,25552,4155,2904,31,5890,
+07/19/2023,01/01/2022,01/31/2022,By Month,Ohio,All Sexes,All Ages,4956,16989,3352,2738,22,5587,
+07/19/2023,01/01/2022,01/31/2022,By Month,Pennsylvania,All Sexes,All Ages,4513,17570,2888,2228,30,5193,
+07/19/2023,01/01/2022,01/31/2022,By Month,Texas,All Sexes,All Ages,6489,27880,4835,3585,40,7762,
+07/19/2023,02/01/2022,02/28/2022,By Month,California,All Sexes,All Ages,4974,28610,4341,2946,12,6375,
+07/19/2023,02/01/2022,02/28/2022,By Month,Florida,All Sexes,All Ages,3458,21707,3127,2110,17,4489,
+07/19/2023,02/01/2022,02/28/2022,By Month,Ohio,All Sexes,All Ages,2088,11959,1509,1072,10,2533,
+07/19/2023,02/01/2022,02/28/2022,By Month,Pennsylvania,All Sexes,All Ages,1906,12654,1330,873,25,2378,
+07/19/2023,02/01/2022,02/28/2022,By Month,Texas,All Sexes,All Ages,4803,23084,3756,2781,25,5790,
+07/19/2023,03/01/2022,03/31/2022,By Month,California,All Sexes,All Ages,1489,25534,2135,791,0,2838,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2022,03/31/2022,By Month,Florida,All Sexes,All Ages,1111,20500,1660,584,22,2208,
+07/19/2023,03/01/2022,03/31/2022,By Month,Ohio,All Sexes,All Ages,674,11182,743,272,10,1152,
+07/19/2023,03/01/2022,03/31/2022,By Month,Pennsylvania,All Sexes,All Ages,591,12052,717,260,15,1061,
+07/19/2023,03/01/2022,03/31/2022,By Month,Texas,All Sexes,All Ages,1363,20441,1716,692,44,2426,
+07/19/2023,04/01/2022,04/30/2022,By Month,California,All Sexes,All Ages,522,23315,1452,211,0,1770,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Florida,All Sexes,All Ages,456,18632,1162,184,10,1441,
+07/19/2023,04/01/2022,04/30/2022,By Month,Ohio,All Sexes,All Ages,279,10190,527,91,0,724,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Pennsylvania,All Sexes,All Ages,298,11129,590,100,24,811,
+07/19/2023,04/01/2022,04/30/2022,By Month,Texas,All Sexes,All Ages,437,18218,1134,193,31,1405,
+07/19/2023,05/01/2022,05/31/2022,By Month,California,All Sexes,All Ages,614,24195,1498,226,23,1908,
+07/19/2023,05/01/2022,05/31/2022,By Month,Florida,All Sexes,All Ages,536,19181,1256,231,19,1578,
+07/19/2023,05/01/2022,05/31/2022,By Month,Ohio,All Sexes,All Ages,284,10404,495,73,14,719,
+07/19/2023,05/01/2022,05/31/2022,By Month,Pennsylvania,All Sexes,All Ages,466,11419,601,140,18,944,
+07/19/2023,05/01/2022,05/31/2022,By Month,Texas,All Sexes,All Ages,323,18427,1058,124,14,1270,
+07/19/2023,06/01/2022,06/30/2022,By Month,California,All Sexes,All Ages,949,23922,1527,371,51,2153,
+07/19/2023,06/01/2022,06/30/2022,By Month,Florida,All Sexes,All Ages,1016,19196,1438,438,51,2066,
+07/19/2023,06/01/2022,06/30/2022,By Month,Ohio,All Sexes,All Ages,335,10160,518,111,0,748,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2022,06/30/2022,By Month,Pennsylvania,All Sexes,All Ages,490,11115,612,147,12,966,
+07/19/2023,06/01/2022,06/30/2022,By Month,Texas,All Sexes,All Ages,518,18491,1079,206,17,1404,
+07/19/2023,07/01/2022,07/31/2022,By Month,California,All Sexes,All Ages,1574,25322,1798,593,13,2791,
+07/19/2023,07/01/2022,07/31/2022,By Month,Florida,All Sexes,All Ages,1455,19805,1610,609,18,2471,
+07/19/2023,07/01/2022,07/31/2022,By Month,Ohio,All Sexes,All Ages,455,10700,542,128,0,871,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Pennsylvania,All Sexes,All Ages,455,11272,565,136,0,886,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Texas,All Sexes,All Ages,1090,20115,1381,417,0,2055,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,California,All Sexes,All Ages,1391,25167,1738,501,0,2632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Florida,All Sexes,All Ages,1478,19938,1627,663,16,2453,
+07/19/2023,08/01/2022,08/31/2022,By Month,Ohio,All Sexes,All Ages,652,10745,615,206,0,1062,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Pennsylvania,All Sexes,All Ages,551,11354,586,166,0,971,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Texas,All Sexes,All Ages,1132,19550,1341,467,0,2012,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,California,All Sexes,All Ages,913,24400,1613,360,0,2171,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Florida,All Sexes,All Ages,950,18787,1319,401,11,1879,
+07/19/2023,09/01/2022,09/30/2022,By Month,Ohio,All Sexes,All Ages,560,10407,546,171,0,937,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Pennsylvania,All Sexes,All Ages,525,11112,562,167,0,920,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Texas,All Sexes,All Ages,745,18507,1219,287,11,1686,
+07/19/2023,10/01/2022,10/31/2022,By Month,California,All Sexes,All Ages,592,24056,1483,219,21,1875,
+07/19/2023,10/01/2022,10/31/2022,By Month,Florida,All Sexes,All Ages,631,19588,1349,269,14,1724,
+07/19/2023,10/01/2022,10/31/2022,By Month,Ohio,All Sexes,All Ages,475,11201,611,137,0,954,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Pennsylvania,All Sexes,All Ages,598,12330,692,187,0,1109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Texas,All Sexes,All Ages,477,19316,1120,186,39,1449,
+07/19/2023,11/01/2022,11/30/2022,By Month,California,All Sexes,All Ages,845,25984,1864,324,128,2510,
+07/19/2023,11/01/2022,11/30/2022,By Month,Florida,All Sexes,All Ages,494,18851,1245,219,63,1578,
+07/19/2023,11/01/2022,11/30/2022,By Month,Ohio,All Sexes,All Ages,549,11411,661,168,46,1085,
+07/19/2023,11/01/2022,11/30/2022,By Month,Pennsylvania,All Sexes,All Ages,610,12106,726,173,39,1196,
+07/19/2023,11/01/2022,11/30/2022,By Month,Texas,All Sexes,All Ages,401,19482,1210,163,157,1598,
+07/19/2023,12/01/2022,12/31/2022,By Month,California,All Sexes,All Ages,1704,30085,2717,713,383,4072,
+07/19/2023,12/01/2022,12/31/2022,By Month,Florida,All Sexes,All Ages,699,20806,1643,359,124,2100,
+07/19/2023,12/01/2022,12/31/2022,By Month,Ohio,All Sexes,All Ages,666,12814,780,195,243,1482,
+07/19/2023,12/01/2022,12/31/2022,By Month,Pennsylvania,All Sexes,All Ages,639,13632,834,178,212,1494,
+07/19/2023,12/01/2022,12/31/2022,By Month,Texas,All Sexes,All Ages,836,21909,1718,387,205,2355,
+07/19/2023,01/01/2023,01/31/2023,By Month,California,All Sexes,All Ages,1321,28193,2401,544,134,3295,
+07/19/2023,01/01/2023,01/31/2023,By Month,Florida,All Sexes,All Ages,991,22014,1905,525,137,2500,
+07/19/2023,01/01/2023,01/31/2023,By Month,Ohio,All Sexes,All Ages,631,11799,797,202,103,1323,
+07/19/2023,01/01/2023,01/31/2023,By Month,Pennsylvania,All Sexes,All Ages,749,13039,903,251,128,1525,
+07/19/2023,01/01/2023,01/31/2023,By Month,Texas,All Sexes,All Ages,1107,21623,1799,531,110,2472,
+07/19/2023,02/01/2023,02/28/2023,By Month,California,All Sexes,All Ages,749,24692,1928,316,16,2376,
+07/19/2023,02/01/2023,02/28/2023,By Month,Florida,All Sexes,All Ages,664,18687,1446,331,37,1812,
+07/19/2023,02/01/2023,02/28/2023,By Month,Ohio,All Sexes,All Ages,329,10172,532,91,15,783,
+07/19/2023,02/01/2023,02/28/2023,By Month,Pennsylvania,All Sexes,All Ages,473,11169,646,142,20,994,
+07/19/2023,02/01/2023,02/28/2023,By Month,Texas,All Sexes,All Ages,630,18858,1362,306,41,1720,
+07/19/2023,03/01/2023,03/31/2023,By Month,California,All Sexes,All Ages,708,26552,1909,298,15,2332,
+07/19/2023,03/01/2023,03/31/2023,By Month,Florida,All Sexes,All Ages,460,20298,1340,201,34,1631,
+07/19/2023,03/01/2023,03/31/2023,By Month,Ohio,All Sexes,All Ages,380,11313,594,128,0,853,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2023,03/31/2023,By Month,Pennsylvania,All Sexes,All Ages,409,12033,679,110,13,990,
+07/19/2023,03/01/2023,03/31/2023,By Month,Texas,All Sexes,All Ages,456,19880,1282,196,26,1562,
+07/19/2023,04/01/2023,04/30/2023,By Month,California,All Sexes,All Ages,480,24350,1650,187,10,1952,
+07/19/2023,04/01/2023,04/30/2023,By Month,Florida,All Sexes,All Ages,351,18935,1244,155,17,1456,
+07/19/2023,04/01/2023,04/30/2023,By Month,Ohio,All Sexes,All Ages,270,10573,570,104,0,740,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Pennsylvania,All Sexes,All Ages,230,11170,627,72,0,789,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Texas,All Sexes,All Ages,320,18540,1108,147,15,1293,
+07/19/2023,05/01/2023,05/31/2023,By Month,California,All Sexes,All Ages,359,23641,1512,137,0,1743,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Florida,All Sexes,All Ages,292,18948,1169,131,17,1345,
+07/19/2023,05/01/2023,05/31/2023,By Month,Ohio,All Sexes,All Ages,158,10462,499,52,0,607,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Pennsylvania,All Sexes,All Ages,135,11230,510,44,0,604,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Texas,All Sexes,All Ages,223,18611,1088,111,11,1210,
+07/19/2023,06/01/2023,06/30/2023,By Month,California,All Sexes,All Ages,270,21290,1389,115,0,1551,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Florida,All Sexes,All Ages,288,17669,1061,124,11,1236,
+07/19/2023,06/01/2023,06/30/2023,By Month,Ohio,All Sexes,All Ages,96,8949,384,26,0,456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Pennsylvania,All Sexes,All Ages,97,10334,473,27,0,547,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Texas,All Sexes,All Ages,128,16246,884,53,0,966,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,California,All Sexes,All Ages,52,4985,293,22,0,324,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Florida,All Sexes,All Ages,87,5142,279,38,0,334,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Ohio,All Sexes,All Ages,0,1786,65,0,0,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Pennsylvania,All Sexes,All Ages,12,1518,78,0,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Texas,All Sexes,All Ages,15,3648,183,0,0,194,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,California,All Sexes,All Ages,0,25756,2028,0,274,2302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,Florida,All Sexes,All Ages,0,19486,1134,0,150,1284,
+07/19/2023,01/01/2020,01/31/2020,By Month,Ohio,All Sexes,All Ages,0,11279,616,0,75,691,
+07/19/2023,01/01/2020,01/31/2020,By Month,Pennsylvania,All Sexes,All Ages,0,12522,747,0,77,824,
+07/19/2023,01/01/2020,01/31/2020,By Month,Texas,All Sexes,All Ages,0,19050,1412,0,184,1596,
+07/19/2023,02/01/2020,02/29/2020,By Month,California,All Sexes,All Ages,0,23824,1845,0,296,2143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2020,02/29/2020,By Month,Florida,All Sexes,All Ages,0,18207,1140,0,130,1270,
+07/19/2023,02/01/2020,02/29/2020,By Month,Ohio,All Sexes,All Ages,0,10367,535,0,91,626,
+07/19/2023,02/01/2020,02/29/2020,By Month,Pennsylvania,All Sexes,All Ages,0,11462,626,0,90,716,
+07/19/2023,02/01/2020,02/29/2020,By Month,Texas,All Sexes,All Ages,0,17629,1202,0,160,1363,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2020,03/31/2020,By Month,California,All Sexes,All Ages,279,25119,2241,149,189,2560,
+07/19/2023,03/01/2020,03/31/2020,By Month,Florida,All Sexes,All Ages,191,19683,1514,106,101,1699,
+07/19/2023,03/01/2020,03/31/2020,By Month,Ohio,All Sexes,All Ages,98,11151,726,44,111,891,
+07/19/2023,03/01/2020,03/31/2020,By Month,Pennsylvania,All Sexes,All Ages,104,12125,817,51,133,1003,
+07/19/2023,03/01/2020,03/31/2020,By Month,Texas,All Sexes,All Ages,99,18576,1412,32,116,1593,
+07/19/2023,04/01/2020,04/30/2020,By Month,California,All Sexes,All Ages,2021,25617,2907,1156,31,3803,
+07/19/2023,04/01/2020,04/30/2020,By Month,Florida,All Sexes,All Ages,1311,19210,1908,691,31,2554,
+07/19/2023,04/01/2020,04/30/2020,By Month,Ohio,All Sexes,All Ages,1063,11528,1037,458,23,1664,
+07/19/2023,04/01/2020,04/30/2020,By Month,Pennsylvania,All Sexes,All Ages,3502,15430,2047,1321,16,4240,
+07/19/2023,04/01/2020,04/30/2020,By Month,Texas,All Sexes,All Ages,934,18572,1660,392,24,2226,
+07/19/2023,05/01/2020,05/31/2020,By Month,California,All Sexes,All Ages,2238,24935,2578,1222,0,3599,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Florida,All Sexes,All Ages,1131,19097,1585,571,14,2156,
+07/19/2023,05/01/2020,05/31/2020,By Month,Ohio,All Sexes,All Ages,1158,11704,900,451,0,1612,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Pennsylvania,All Sexes,All Ages,2711,13857,1478,980,0,3212,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Texas,All Sexes,All Ages,964,18731,1560,449,13,2087,
+07/19/2023,06/01/2020,06/30/2020,By Month,California,All Sexes,All Ages,2065,23984,2329,1096,0,3302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Florida,All Sexes,All Ages,1083,18799,1507,548,0,2043,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Ohio,All Sexes,All Ages,559,10572,624,225,0,960,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Pennsylvania,All Sexes,All Ages,830,11221,658,237,0,1252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Texas,All Sexes,All Ages,1436,19173,1629,612,0,2456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,California,All Sexes,All Ages,3890,27365,3459,2136,0,5213,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Florida,All Sexes,All Ages,4980,23956,3502,2486,11,6001,
+07/19/2023,07/01/2020,07/31/2020,By Month,Ohio,All Sexes,All Ages,681,11258,746,285,0,1145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Pennsylvania,All Sexes,All Ages,499,11543,593,157,0,935,
+07/19/2023,07/01/2020,07/31/2020,By Month,Texas,All Sexes,All Ages,6971,26487,4703,3593,11,8087,
+07/19/2023,08/01/2020,08/31/2020,By Month,California,All Sexes,All Ages,3761,27535,3399,2150,0,5011,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Florida,All Sexes,All Ages,4786,23539,3785,2792,10,5782,
+07/19/2023,08/01/2020,08/31/2020,By Month,Ohio,All Sexes,All Ages,785,11450,803,352,0,1238,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Pennsylvania,All Sexes,All Ages,506,11505,597,171,0,932,
+07/19/2023,08/01/2020,08/31/2020,By Month,Texas,All Sexes,All Ages,5147,23894,3829,2795,0,6186,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,California,All Sexes,All Ages,2071,24488,2355,1172,0,3254,
+07/19/2023,09/01/2020,09/30/2020,By Month,Florida,All Sexes,All Ages,2023,19523,2180,1202,0,3005,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Ohio,All Sexes,All Ages,638,10901,676,275,0,1040,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Pennsylvania,All Sexes,All Ages,418,11348,572,136,0,854,
+07/19/2023,09/01/2020,09/30/2020,By Month,Texas,All Sexes,All Ages,2342,19891,2224,1260,0,3311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,California,All Sexes,All Ages,1463,24533,2058,817,0,2707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Florida,All Sexes,All Ages,1410,19371,1827,833,0,2405,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Ohio,All Sexes,All Ages,990,11899,868,418,0,1440,
+07/19/2023,10/01/2020,10/31/2020,By Month,Pennsylvania,All Sexes,All Ages,726,12086,751,289,0,1188,
+07/19/2023,10/01/2020,10/31/2020,By Month,Texas,All Sexes,All Ages,2867,21227,2586,1574,12,3890,
+07/19/2023,11/01/2020,11/30/2020,By Month,California,All Sexes,All Ages,2580,26526,2745,1393,0,3934,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Florida,All Sexes,All Ages,1767,19315,2148,1180,12,2742,
+07/19/2023,11/01/2020,11/30/2020,By Month,Ohio,All Sexes,All Ages,3074,13940,1836,1348,0,3563,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Pennsylvania,All Sexes,All Ages,2565,14215,1619,1063,0,3125,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Texas,All Sexes,All Ages,5224,23446,4038,3025,14,6245,
+07/19/2023,12/01/2020,12/31/2020,By Month,California,All Sexes,All Ages,13207,41094,9090,7498,11,14802,
+07/19/2023,12/01/2020,12/31/2020,By Month,Florida,All Sexes,All Ages,3145,22879,3207,2077,18,4288,
+07/19/2023,12/01/2020,12/31/2020,By Month,Ohio,All Sexes,All Ages,6051,17897,3410,2831,0,6632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Pennsylvania,All Sexes,All Ages,6546,19289,3139,2580,0,7107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Texas,All Sexes,All Ages,7557,27012,5412,4298,26,8680,
+07/19/2023,01/01/2021,01/31/2021,By Month,California,All Sexes,All Ages,20065,48148,13802,12191,16,21687,
+07/19/2023,01/01/2021,01/31/2021,By Month,Florida,All Sexes,All Ages,5022,24926,4526,3363,0,6192,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Ohio,All Sexes,All Ages,4187,15200,2543,2027,0,4707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Pennsylvania,All Sexes,All Ages,4807,17063,2717,2138,0,5390,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Texas,All Sexes,All Ages,10725,30681,7364,6199,20,11896,
+07/19/2023,02/01/2021,02/28/2021,By Month,California,All Sexes,All Ages,7715,30047,6267,4961,11,9029,
+07/19/2023,02/01/2021,02/28/2021,By Month,Florida,All Sexes,All Ages,3202,20961,3158,2150,0,4216,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Ohio,All Sexes,All Ages,1643,11640,1220,801,0,2063,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Pennsylvania,All Sexes,All Ages,1935,12556,1388,920,0,2404,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Texas,All Sexes,All Ages,5831,24064,4427,3409,15,6855,
+07/19/2023,03/01/2021,03/31/2021,By Month,California,All Sexes,All Ages,2337,26792,2776,1441,0,3675,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Florida,All Sexes,All Ages,1829,20623,2292,1261,0,2864,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Ohio,All Sexes,All Ages,779,11043,867,386,0,1262,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Pennsylvania,All Sexes,All Ages,1008,12127,936,481,0,1465,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Texas,All Sexes,All Ages,2673,21061,2634,1601,10,3716,
+07/19/2023,04/01/2021,04/30/2021,By Month,California,All Sexes,All Ages,1008,23276,1719,552,0,2176,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Florida,All Sexes,All Ages,1513,19804,1983,1018,0,2482,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Ohio,All Sexes,All Ages,672,10628,737,336,0,1075,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1252,12002,1034,629,0,1658,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Texas,All Sexes,All Ages,1460,19162,1810,836,0,2440,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,California,All Sexes,All Ages,695,23503,1527,366,0,1858,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Florida,All Sexes,All Ages,1327,20058,1833,935,0,2229,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Ohio,All Sexes,All Ages,548,10883,715,286,0,978,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Pennsylvania,All Sexes,All Ages,891,11913,878,479,0,1290,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Texas,All Sexes,All Ages,1209,19221,1568,664,0,2117,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,California,All Sexes,All Ages,450,22731,1353,229,0,1574,
+07/19/2023,06/01/2021,06/30/2021,By Month,Florida,All Sexes,All Ages,834,18947,1493,565,0,1763,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Ohio,All Sexes,All Ages,328,10087,554,156,0,727,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Pennsylvania,All Sexes,All Ages,341,10801,566,164,0,743,
+07/19/2023,06/01/2021,06/30/2021,By Month,Texas,All Sexes,All Ages,766,18462,1360,442,0,1687,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,California,All Sexes,All Ages,822,23772,1624,465,0,1981,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Florida,All Sexes,All Ages,1997,21054,2394,1313,0,3082,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Ohio,All Sexes,All Ages,218,10383,528,95,0,651,
+07/19/2023,07/01/2021,07/31/2021,By Month,Pennsylvania,All Sexes,All Ages,172,11107,532,75,0,629,
+07/19/2023,07/01/2021,07/31/2021,By Month,Texas,All Sexes,All Ages,1343,19837,1778,765,0,2360,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,California,All Sexes,All Ages,3413,27128,3425,2128,0,4710,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Florida,All Sexes,All Ages,10406,30209,8391,7312,0,11487,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Ohio,All Sexes,All Ages,804,11402,840,426,0,1218,
+07/19/2023,08/01/2021,08/31/2021,By Month,Pennsylvania,All Sexes,All Ages,595,11781,782,315,0,1062,
+07/19/2023,08/01/2021,08/31/2021,By Month,Texas,All Sexes,All Ages,7321,26563,5499,4427,13,8399,
+07/19/2023,09/01/2021,09/30/2021,By Month,California,All Sexes,All Ages,4264,27310,4135,2890,0,5511,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Florida,All Sexes,All Ages,8334,26986,6865,5811,0,9392,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Ohio,All Sexes,All Ages,2345,12983,1903,1428,0,2820,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1373,12563,1281,747,0,1909,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Texas,All Sexes,All Ages,8794,27271,6474,5471,15,9809,
+07/19/2023,10/01/2021,10/31/2021,By Month,California,All Sexes,All Ages,2780,27229,3150,1851,0,4081,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Florida,All Sexes,All Ages,2657,21422,2880,1801,0,3738,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Ohio,All Sexes,All Ages,2694,13753,2167,1663,0,3200,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Pennsylvania,All Sexes,All Ages,2263,13942,1757,1218,0,2803,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Texas,All Sexes,All Ages,4449,23097,3783,2817,13,5425,
+07/19/2023,11/01/2021,11/30/2021,By Month,California,All Sexes,All Ages,2428,25838,2955,1578,0,3808,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Florida,All Sexes,All Ages,889,19295,1564,582,0,1876,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Ohio,All Sexes,All Ages,2241,13472,1854,1307,0,2788,
+07/19/2023,11/01/2021,11/30/2021,By Month,Pennsylvania,All Sexes,All Ages,2338,14151,1868,1303,0,2904,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Texas,All Sexes,All Ages,1957,20451,2169,1166,0,2967,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,California,All Sexes,All Ages,2352,28830,3155,1495,0,4019,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,Florida,All Sexes,All Ages,863,20498,1614,513,22,1983,
+07/19/2023,12/01/2021,12/31/2021,By Month,Ohio,All Sexes,All Ages,4077,16091,3067,2441,17,4719,
+07/19/2023,12/01/2021,12/31/2021,By Month,Pennsylvania,All Sexes,All Ages,3571,16228,2629,2001,28,4225,
+07/19/2023,12/01/2021,12/31/2021,By Month,Texas,All Sexes,All Ages,2259,21620,2522,1355,46,3467,
+07/19/2023,01/01/2022,01/31/2022,By Month,California,All Sexes,All Ages,6852,34938,5586,3918,20,8536,
+07/19/2023,01/01/2022,01/31/2022,By Month,Florida,All Sexes,All Ages,4615,25552,4155,2904,31,5890,
+07/19/2023,01/01/2022,01/31/2022,By Month,Ohio,All Sexes,All Ages,4956,16989,3352,2738,22,5587,
+07/19/2023,01/01/2022,01/31/2022,By Month,Pennsylvania,All Sexes,All Ages,4513,17570,2888,2228,30,5193,
+07/19/2023,01/01/2022,01/31/2022,By Month,Texas,All Sexes,All Ages,6489,27880,4835,3585,40,7762,
+07/19/2023,02/01/2022,02/28/2022,By Month,California,All Sexes,All Ages,4974,28610,4341,2946,12,6375,
+07/19/2023,02/01/2022,02/28/2022,By Month,Florida,All Sexes,All Ages,3458,21707,3127,2110,17,4489,
+07/19/2023,02/01/2022,02/28/2022,By Month,Ohio,All Sexes,All Ages,2088,11959,1509,1072,10,2533,
+07/19/2023,02/01/2022,02/28/2022,By Month,Pennsylvania,All Sexes,All Ages,1906,12654,1330,873,25,2378,
+07/19/2023,02/01/2022,02/28/2022,By Month,Texas,All Sexes,All Ages,4803,23084,3756,2781,25,5790,
+07/19/2023,03/01/2022,03/31/2022,By Month,California,All Sexes,All Ages,1489,25534,2135,791,0,2838,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2022,03/31/2022,By Month,Florida,All Sexes,All Ages,1111,20500,1660,584,22,2208,
+07/19/2023,03/01/2022,03/31/2022,By Month,Ohio,All Sexes,All Ages,674,11182,743,272,10,1152,
+07/19/2023,03/01/2022,03/31/2022,By Month,Pennsylvania,All Sexes,All Ages,591,12052,717,260,15,1061,
+07/19/2023,03/01/2022,03/31/2022,By Month,Texas,All Sexes,All Ages,1363,20441,1716,692,44,2426,
+07/19/2023,04/01/2022,04/30/2022,By Month,California,All Sexes,All Ages,522,23315,1452,211,0,1770,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Florida,All Sexes,All Ages,456,18632,1162,184,10,1441,
+07/19/2023,04/01/2022,04/30/2022,By Month,Ohio,All Sexes,All Ages,279,10190,527,91,0,724,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Pennsylvania,All Sexes,All Ages,298,11129,590,100,24,811,
+07/19/2023,04/01/2022,04/30/2022,By Month,Texas,All Sexes,All Ages,437,18218,1134,193,31,1405,
+07/19/2023,05/01/2022,05/31/2022,By Month,California,All Sexes,All Ages,614,24195,1498,226,23,1908,
+07/19/2023,05/01/2022,05/31/2022,By Month,Florida,All Sexes,All Ages,536,19181,1256,231,19,1578,
+07/19/2023,05/01/2022,05/31/2022,By Month,Ohio,All Sexes,All Ages,284,10404,495,73,14,719,
+07/19/2023,05/01/2022,05/31/2022,By Month,Pennsylvania,All Sexes,All Ages,466,11419,601,140,18,944,
+07/19/2023,05/01/2022,05/31/2022,By Month,Texas,All Sexes,All Ages,323,18427,1058,124,14,1270,
+07/19/2023,06/01/2022,06/30/2022,By Month,California,All Sexes,All Ages,949,23922,1527,371,51,2153,
+07/19/2023,06/01/2022,06/30/2022,By Month,Florida,All Sexes,All Ages,1016,19196,1438,438,51,2066,
+07/19/2023,06/01/2022,06/30/2022,By Month,Ohio,All Sexes,All Ages,335,10160,518,111,0,748,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2022,06/30/2022,By Month,Pennsylvania,All Sexes,All Ages,490,11115,612,147,12,966,
+07/19/2023,06/01/2022,06/30/2022,By Month,Texas,All Sexes,All Ages,518,18491,1079,206,17,1404,
+07/19/2023,07/01/2022,07/31/2022,By Month,California,All Sexes,All Ages,1574,25322,1798,593,13,2791,
+07/19/2023,07/01/2022,07/31/2022,By Month,Florida,All Sexes,All Ages,1455,19805,1610,609,18,2471,
+07/19/2023,07/01/2022,07/31/2022,By Month,Ohio,All Sexes,All Ages,455,10700,542,128,0,871,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Pennsylvania,All Sexes,All Ages,455,11272,565,136,0,886,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Texas,All Sexes,All Ages,1090,20115,1381,417,0,2055,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,California,All Sexes,All Ages,1391,25167,1738,501,0,2632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Florida,All Sexes,All Ages,1478,19938,1627,663,16,2453,
+07/19/2023,08/01/2022,08/31/2022,By Month,Ohio,All Sexes,All Ages,652,10745,615,206,0,1062,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Pennsylvania,All Sexes,All Ages,551,11354,586,166,0,971,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Texas,All Sexes,All Ages,1132,19550,1341,467,0,2012,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,California,All Sexes,All Ages,913,24400,1613,360,0,2171,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Florida,All Sexes,All Ages,950,18787,1319,401,11,1879,
+07/19/2023,09/01/2022,09/30/2022,By Month,Ohio,All Sexes,All Ages,560,10407,546,171,0,937,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Pennsylvania,All Sexes,All Ages,525,11112,562,167,0,920,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Texas,All Sexes,All Ages,745,18507,1219,287,11,1686,
+07/19/2023,10/01/2022,10/31/2022,By Month,California,All Sexes,All Ages,592,24056,1483,219,21,1875,
+07/19/2023,10/01/2022,10/31/2022,By Month,Florida,All Sexes,All Ages,631,19588,1349,269,14,1724,
+07/19/2023,10/01/2022,10/31/2022,By Month,Ohio,All Sexes,All Ages,475,11201,611,137,0,954,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Pennsylvania,All Sexes,All Ages,598,12330,692,187,0,1109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Texas,All Sexes,All Ages,477,19316,1120,186,39,1449,
+07/19/2023,11/01/2022,11/30/2022,By Month,California,All Sexes,All Ages,845,25984,1864,324,128,2510,
+07/19/2023,11/01/2022,11/30/2022,By Month,Florida,All Sexes,All Ages,494,18851,1245,219,63,1578,
+07/19/2023,11/01/2022,11/30/2022,By Month,Ohio,All Sexes,All Ages,549,11411,661,168,46,1085,
+07/19/2023,11/01/2022,11/30/2022,By Month,Pennsylvania,All Sexes,All Ages,610,12106,726,173,39,1196,
+07/19/2023,11/01/2022,11/30/2022,By Month,Texas,All Sexes,All Ages,401,19482,1210,163,157,1598,
+07/19/2023,12/01/2022,12/31/2022,By Month,California,All Sexes,All Ages,1704,30085,2717,713,383,4072,
+07/19/2023,12/01/2022,12/31/2022,By Month,Florida,All Sexes,All Ages,699,20806,1643,359,124,2100,
+07/19/2023,12/01/2022,12/31/2022,By Month,Ohio,All Sexes,All Ages,666,12814,780,195,243,1482,
+07/19/2023,12/01/2022,12/31/2022,By Month,Pennsylvania,All Sexes,All Ages,639,13632,834,178,212,1494,
+07/19/2023,12/01/2022,12/31/2022,By Month,Texas,All Sexes,All Ages,836,21909,1718,387,205,2355,
+07/19/2023,01/01/2023,01/31/2023,By Month,California,All Sexes,All Ages,1321,28193,2401,544,134,3295,
+07/19/2023,01/01/2023,01/31/2023,By Month,Florida,All Sexes,All Ages,991,22014,1905,525,137,2500,
+07/19/2023,01/01/2023,01/31/2023,By Month,Ohio,All Sexes,All Ages,631,11799,797,202,103,1323,
+07/19/2023,01/01/2023,01/31/2023,By Month,Pennsylvania,All Sexes,All Ages,749,13039,903,251,128,1525,
+07/19/2023,01/01/2023,01/31/2023,By Month,Texas,All Sexes,All Ages,1107,21623,1799,531,110,2472,
+07/19/2023,02/01/2023,02/28/2023,By Month,California,All Sexes,All Ages,749,24692,1928,316,16,2376,
+07/19/2023,02/01/2023,02/28/2023,By Month,Florida,All Sexes,All Ages,664,18687,1446,331,37,1812,
+07/19/2023,02/01/2023,02/28/2023,By Month,Ohio,All Sexes,All Ages,329,10172,532,91,15,783,
+07/19/2023,02/01/2023,02/28/2023,By Month,Pennsylvania,All Sexes,All Ages,473,11169,646,142,20,994,
+07/19/2023,02/01/2023,02/28/2023,By Month,Texas,All Sexes,All Ages,630,18858,1362,306,41,1720,
+07/19/2023,03/01/2023,03/31/2023,By Month,California,All Sexes,All Ages,708,26552,1909,298,15,2332,
+07/19/2023,03/01/2023,03/31/2023,By Month,Florida,All Sexes,All Ages,460,20298,1340,201,34,1631,
+07/19/2023,03/01/2023,03/31/2023,By Month,Ohio,All Sexes,All Ages,380,11313,594,128,0,853,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2023,03/31/2023,By Month,Pennsylvania,All Sexes,All Ages,409,12033,679,110,13,990,
+07/19/2023,03/01/2023,03/31/2023,By Month,Texas,All Sexes,All Ages,456,19880,1282,196,26,1562,
+07/19/2023,04/01/2023,04/30/2023,By Month,California,All Sexes,All Ages,480,24350,1650,187,10,1952,
+07/19/2023,04/01/2023,04/30/2023,By Month,Florida,All Sexes,All Ages,351,18935,1244,155,17,1456,
+07/19/2023,04/01/2023,04/30/2023,By Month,Ohio,All Sexes,All Ages,270,10573,570,104,0,740,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Pennsylvania,All Sexes,All Ages,230,11170,627,72,0,789,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Texas,All Sexes,All Ages,320,18540,1108,147,15,1293,
+07/19/2023,05/01/2023,05/31/2023,By Month,California,All Sexes,All Ages,359,23641,1512,137,0,1743,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Florida,All Sexes,All Ages,292,18948,1169,131,17,1345,
+07/19/2023,05/01/2023,05/31/2023,By Month,Ohio,All Sexes,All Ages,158,10462,499,52,0,607,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Pennsylvania,All Sexes,All Ages,135,11230,510,44,0,604,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Texas,All Sexes,All Ages,223,18611,1088,111,11,1210,
+07/19/2023,06/01/2023,06/30/2023,By Month,California,All Sexes,All Ages,270,21290,1389,115,0,1551,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Florida,All Sexes,All Ages,288,17669,1061,124,11,1236,
+07/19/2023,06/01/2023,06/30/2023,By Month,Ohio,All Sexes,All Ages,96,8949,384,26,0,456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Pennsylvania,All Sexes,All Ages,97,10334,473,27,0,547,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Texas,All Sexes,All Ages,128,16246,884,53,0,966,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,California,All Sexes,All Ages,52,4985,293,22,0,324,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Florida,All Sexes,All Ages,87,5142,279,38,0,334,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Ohio,All Sexes,All Ages,0,1786,65,0,0,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Pennsylvania,All Sexes,All Ages,12,1518,78,0,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Texas,All Sexes,All Ages,15,3648,183,0,0,194,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,California,All Sexes,All Ages,0,25756,2028,0,274,2302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,Florida,All Sexes,All Ages,0,19486,1134,0,150,1284,
+07/19/2023,01/01/2020,01/31/2020,By Month,Ohio,All Sexes,All Ages,0,11279,616,0,75,691,
+07/19/2023,01/01/2020,01/31/2020,By Month,Pennsylvania,All Sexes,All Ages,0,12522,747,0,77,824,
+07/19/2023,01/01/2020,01/31/2020,By Month,Texas,All Sexes,All Ages,0,19050,1412,0,184,1596,
+07/19/2023,02/01/2020,02/29/2020,By Month,California,All Sexes,All Ages,0,23824,1845,0,296,2143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2020,02/29/2020,By Month,Florida,All Sexes,All Ages,0,18207,1140,0,130,1270,
+07/19/2023,02/01/2020,02/29/2020,By Month,Ohio,All Sexes,All Ages,0,10367,535,0,91,626,
+07/19/2023,02/01/2020,02/29/2020,By Month,Pennsylvania,All Sexes,All Ages,0,11462,626,0,90,716,
+07/19/2023,02/01/2020,02/29/2020,By Month,Texas,All Sexes,All Ages,0,17629,1202,0,160,1363,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2020,03/31/2020,By Month,California,All Sexes,All Ages,279,25119,2241,149,189,2560,
+07/19/2023,03/01/2020,03/31/2020,By Month,Florida,All Sexes,All Ages,191,19683,1514,106,101,1699,
+07/19/2023,03/01/2020,03/31/2020,By Month,Ohio,All Sexes,All Ages,98,11151,726,44,111,891,
+07/19/2023,03/01/2020,03/31/2020,By Month,Pennsylvania,All Sexes,All Ages,104,12125,817,51,133,1003,
+07/19/2023,03/01/2020,03/31/2020,By Month,Texas,All Sexes,All Ages,99,18576,1412,32,116,1593,
+07/19/2023,04/01/2020,04/30/2020,By Month,California,All Sexes,All Ages,2021,25617,2907,1156,31,3803,
+07/19/2023,04/01/2020,04/30/2020,By Month,Florida,All Sexes,All Ages,1311,19210,1908,691,31,2554,
+07/19/2023,04/01/2020,04/30/2020,By Month,Ohio,All Sexes,All Ages,1063,11528,1037,458,23,1664,
+07/19/2023,04/01/2020,04/30/2020,By Month,Pennsylvania,All Sexes,All Ages,3502,15430,2047,1321,16,4240,
+07/19/2023,04/01/2020,04/30/2020,By Month,Texas,All Sexes,All Ages,934,18572,1660,392,24,2226,
+07/19/2023,05/01/2020,05/31/2020,By Month,California,All Sexes,All Ages,2238,24935,2578,1222,0,3599,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Florida,All Sexes,All Ages,1131,19097,1585,571,14,2156,
+07/19/2023,05/01/2020,05/31/2020,By Month,Ohio,All Sexes,All Ages,1158,11704,900,451,0,1612,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Pennsylvania,All Sexes,All Ages,2711,13857,1478,980,0,3212,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Texas,All Sexes,All Ages,964,18731,1560,449,13,2087,
+07/19/2023,06/01/2020,06/30/2020,By Month,California,All Sexes,All Ages,2065,23984,2329,1096,0,3302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Florida,All Sexes,All Ages,1083,18799,1507,548,0,2043,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Ohio,All Sexes,All Ages,559,10572,624,225,0,960,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Pennsylvania,All Sexes,All Ages,830,11221,658,237,0,1252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Texas,All Sexes,All Ages,1436,19173,1629,612,0,2456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,California,All Sexes,All Ages,3890,27365,3459,2136,0,5213,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Florida,All Sexes,All Ages,4980,23956,3502,2486,11,6001,
+07/19/2023,07/01/2020,07/31/2020,By Month,Ohio,All Sexes,All Ages,681,11258,746,285,0,1145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Pennsylvania,All Sexes,All Ages,499,11543,593,157,0,935,
+07/19/2023,07/01/2020,07/31/2020,By Month,Texas,All Sexes,All Ages,6971,26487,4703,3593,11,8087,
+07/19/2023,08/01/2020,08/31/2020,By Month,California,All Sexes,All Ages,3761,27535,3399,2150,0,5011,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Florida,All Sexes,All Ages,4786,23539,3785,2792,10,5782,
+07/19/2023,08/01/2020,08/31/2020,By Month,Ohio,All Sexes,All Ages,785,11450,803,352,0,1238,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Pennsylvania,All Sexes,All Ages,506,11505,597,171,0,932,
+07/19/2023,08/01/2020,08/31/2020,By Month,Texas,All Sexes,All Ages,5147,23894,3829,2795,0,6186,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,California,All Sexes,All Ages,2071,24488,2355,1172,0,3254,
+07/19/2023,09/01/2020,09/30/2020,By Month,Florida,All Sexes,All Ages,2023,19523,2180,1202,0,3005,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Ohio,All Sexes,All Ages,638,10901,676,275,0,1040,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Pennsylvania,All Sexes,All Ages,418,11348,572,136,0,854,
+07/19/2023,09/01/2020,09/30/2020,By Month,Texas,All Sexes,All Ages,2342,19891,2224,1260,0,3311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,California,All Sexes,All Ages,1463,24533,2058,817,0,2707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Florida,All Sexes,All Ages,1410,19371,1827,833,0,2405,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Ohio,All Sexes,All Ages,990,11899,868,418,0,1440,
+07/19/2023,10/01/2020,10/31/2020,By Month,Pennsylvania,All Sexes,All Ages,726,12086,751,289,0,1188,
+07/19/2023,10/01/2020,10/31/2020,By Month,Texas,All Sexes,All Ages,2867,21227,2586,1574,12,3890,
+07/19/2023,11/01/2020,11/30/2020,By Month,California,All Sexes,All Ages,2580,26526,2745,1393,0,3934,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Florida,All Sexes,All Ages,1767,19315,2148,1180,12,2742,
+07/19/2023,11/01/2020,11/30/2020,By Month,Ohio,All Sexes,All Ages,3074,13940,1836,1348,0,3563,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Pennsylvania,All Sexes,All Ages,2565,14215,1619,1063,0,3125,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Texas,All Sexes,All Ages,5224,23446,4038,3025,14,6245,
+07/19/2023,12/01/2020,12/31/2020,By Month,California,All Sexes,All Ages,13207,41094,9090,7498,11,14802,
+07/19/2023,12/01/2020,12/31/2020,By Month,Florida,All Sexes,All Ages,3145,22879,3207,2077,18,4288,
+07/19/2023,12/01/2020,12/31/2020,By Month,Ohio,All Sexes,All Ages,6051,17897,3410,2831,0,6632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Pennsylvania,All Sexes,All Ages,6546,19289,3139,2580,0,7107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Texas,All Sexes,All Ages,7557,27012,5412,4298,26,8680,
+07/19/2023,01/01/2021,01/31/2021,By Month,California,All Sexes,All Ages,20065,48148,13802,12191,16,21687,
+07/19/2023,01/01/2021,01/31/2021,By Month,Florida,All Sexes,All Ages,5022,24926,4526,3363,0,6192,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Ohio,All Sexes,All Ages,4187,15200,2543,2027,0,4707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Pennsylvania,All Sexes,All Ages,4807,17063,2717,2138,0,5390,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Texas,All Sexes,All Ages,10725,30681,7364,6199,20,11896,
+07/19/2023,02/01/2021,02/28/2021,By Month,California,All Sexes,All Ages,7715,30047,6267,4961,11,9029,
+07/19/2023,02/01/2021,02/28/2021,By Month,Florida,All Sexes,All Ages,3202,20961,3158,2150,0,4216,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Ohio,All Sexes,All Ages,1643,11640,1220,801,0,2063,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Pennsylvania,All Sexes,All Ages,1935,12556,1388,920,0,2404,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Texas,All Sexes,All Ages,5831,24064,4427,3409,15,6855,
+07/19/2023,03/01/2021,03/31/2021,By Month,California,All Sexes,All Ages,2337,26792,2776,1441,0,3675,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Florida,All Sexes,All Ages,1829,20623,2292,1261,0,2864,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Ohio,All Sexes,All Ages,779,11043,867,386,0,1262,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Pennsylvania,All Sexes,All Ages,1008,12127,936,481,0,1465,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Texas,All Sexes,All Ages,2673,21061,2634,1601,10,3716,
+07/19/2023,04/01/2021,04/30/2021,By Month,California,All Sexes,All Ages,1008,23276,1719,552,0,2176,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Florida,All Sexes,All Ages,1513,19804,1983,1018,0,2482,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Ohio,All Sexes,All Ages,672,10628,737,336,0,1075,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1252,12002,1034,629,0,1658,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Texas,All Sexes,All Ages,1460,19162,1810,836,0,2440,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,California,All Sexes,All Ages,695,23503,1527,366,0,1858,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Florida,All Sexes,All Ages,1327,20058,1833,935,0,2229,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Ohio,All Sexes,All Ages,548,10883,715,286,0,978,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Pennsylvania,All Sexes,All Ages,891,11913,878,479,0,1290,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Texas,All Sexes,All Ages,1209,19221,1568,664,0,2117,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,California,All Sexes,All Ages,450,22731,1353,229,0,1574,
+07/19/2023,06/01/2021,06/30/2021,By Month,Florida,All Sexes,All Ages,834,18947,1493,565,0,1763,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Ohio,All Sexes,All Ages,328,10087,554,156,0,727,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Pennsylvania,All Sexes,All Ages,341,10801,566,164,0,743,
+07/19/2023,06/01/2021,06/30/2021,By Month,Texas,All Sexes,All Ages,766,18462,1360,442,0,1687,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,California,All Sexes,All Ages,822,23772,1624,465,0,1981,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Florida,All Sexes,All Ages,1997,21054,2394,1313,0,3082,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Ohio,All Sexes,All Ages,218,10383,528,95,0,651,
+07/19/2023,07/01/2021,07/31/2021,By Month,Pennsylvania,All Sexes,All Ages,172,11107,532,75,0,629,
+07/19/2023,07/01/2021,07/31/2021,By Month,Texas,All Sexes,All Ages,1343,19837,1778,765,0,2360,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,California,All Sexes,All Ages,3413,27128,3425,2128,0,4710,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Florida,All Sexes,All Ages,10406,30209,8391,7312,0,11487,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Ohio,All Sexes,All Ages,804,11402,840,426,0,1218,
+07/19/2023,08/01/2021,08/31/2021,By Month,Pennsylvania,All Sexes,All Ages,595,11781,782,315,0,1062,
+07/19/2023,08/01/2021,08/31/2021,By Month,Texas,All Sexes,All Ages,7321,26563,5499,4427,13,8399,
+07/19/2023,09/01/2021,09/30/2021,By Month,California,All Sexes,All Ages,4264,27310,4135,2890,0,5511,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Florida,All Sexes,All Ages,8334,26986,6865,5811,0,9392,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Ohio,All Sexes,All Ages,2345,12983,1903,1428,0,2820,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1373,12563,1281,747,0,1909,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Texas,All Sexes,All Ages,8794,27271,6474,5471,15,9809,
+07/19/2023,10/01/2021,10/31/2021,By Month,California,All Sexes,All Ages,2780,27229,3150,1851,0,4081,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Florida,All Sexes,All Ages,2657,21422,2880,1801,0,3738,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Ohio,All Sexes,All Ages,2694,13753,2167,1663,0,3200,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Pennsylvania,All Sexes,All Ages,2263,13942,1757,1218,0,2803,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Texas,All Sexes,All Ages,4449,23097,3783,2817,13,5425,
+07/19/2023,11/01/2021,11/30/2021,By Month,California,All Sexes,All Ages,2428,25838,2955,1578,0,3808,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Florida,All Sexes,All Ages,889,19295,1564,582,0,1876,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Ohio,All Sexes,All Ages,2241,13472,1854,1307,0,2788,
+07/19/2023,11/01/2021,11/30/2021,By Month,Pennsylvania,All Sexes,All Ages,2338,14151,1868,1303,0,2904,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Texas,All Sexes,All Ages,1957,20451,2169,1166,0,2967,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,California,All Sexes,All Ages,2352,28830,3155,1495,0,4019,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,Florida,All Sexes,All Ages,863,20498,1614,513,22,1983,
+07/19/2023,12/01/2021,12/31/2021,By Month,Ohio,All Sexes,All Ages,4077,16091,3067,2441,17,4719,
+07/19/2023,12/01/2021,12/31/2021,By Month,Pennsylvania,All Sexes,All Ages,3571,16228,2629,2001,28,4225,
+07/19/2023,12/01/2021,12/31/2021,By Month,Texas,All Sexes,All Ages,2259,21620,2522,1355,46,3467,
+07/19/2023,01/01/2022,01/31/2022,By Month,California,All Sexes,All Ages,6852,34938,5586,3918,20,8536,
+07/19/2023,01/01/2022,01/31/2022,By Month,Florida,All Sexes,All Ages,4615,25552,4155,2904,31,5890,
+07/19/2023,01/01/2022,01/31/2022,By Month,Ohio,All Sexes,All Ages,4956,16989,3352,2738,22,5587,
+07/19/2023,01/01/2022,01/31/2022,By Month,Pennsylvania,All Sexes,All Ages,4513,17570,2888,2228,30,5193,
+07/19/2023,01/01/2022,01/31/2022,By Month,Texas,All Sexes,All Ages,6489,27880,4835,3585,40,7762,
+07/19/2023,02/01/2022,02/28/2022,By Month,California,All Sexes,All Ages,4974,28610,4341,2946,12,6375,
+07/19/2023,02/01/2022,02/28/2022,By Month,Florida,All Sexes,All Ages,3458,21707,3127,2110,17,4489,
+07/19/2023,02/01/2022,02/28/2022,By Month,Ohio,All Sexes,All Ages,2088,11959,1509,1072,10,2533,
+07/19/2023,02/01/2022,02/28/2022,By Month,Pennsylvania,All Sexes,All Ages,1906,12654,1330,873,25,2378,
+07/19/2023,02/01/2022,02/28/2022,By Month,Texas,All Sexes,All Ages,4803,23084,3756,2781,25,5790,
+07/19/2023,03/01/2022,03/31/2022,By Month,California,All Sexes,All Ages,1489,25534,2135,791,0,2838,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2022,03/31/2022,By Month,Florida,All Sexes,All Ages,1111,20500,1660,584,22,2208,
+07/19/2023,03/01/2022,03/31/2022,By Month,Ohio,All Sexes,All Ages,674,11182,743,272,10,1152,
+07/19/2023,03/01/2022,03/31/2022,By Month,Pennsylvania,All Sexes,All Ages,591,12052,717,260,15,1061,
+07/19/2023,03/01/2022,03/31/2022,By Month,Texas,All Sexes,All Ages,1363,20441,1716,692,44,2426,
+07/19/2023,04/01/2022,04/30/2022,By Month,California,All Sexes,All Ages,522,23315,1452,211,0,1770,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Florida,All Sexes,All Ages,456,18632,1162,184,10,1441,
+07/19/2023,04/01/2022,04/30/2022,By Month,Ohio,All Sexes,All Ages,279,10190,527,91,0,724,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Pennsylvania,All Sexes,All Ages,298,11129,590,100,24,811,
+07/19/2023,04/01/2022,04/30/2022,By Month,Texas,All Sexes,All Ages,437,18218,1134,193,31,1405,
+07/19/2023,05/01/2022,05/31/2022,By Month,California,All Sexes,All Ages,614,24195,1498,226,23,1908,
+07/19/2023,05/01/2022,05/31/2022,By Month,Florida,All Sexes,All Ages,536,19181,1256,231,19,1578,
+07/19/2023,05/01/2022,05/31/2022,By Month,Ohio,All Sexes,All Ages,284,10404,495,73,14,719,
+07/19/2023,05/01/2022,05/31/2022,By Month,Pennsylvania,All Sexes,All Ages,466,11419,601,140,18,944,
+07/19/2023,05/01/2022,05/31/2022,By Month,Texas,All Sexes,All Ages,323,18427,1058,124,14,1270,
+07/19/2023,06/01/2022,06/30/2022,By Month,California,All Sexes,All Ages,949,23922,1527,371,51,2153,
+07/19/2023,06/01/2022,06/30/2022,By Month,Florida,All Sexes,All Ages,1016,19196,1438,438,51,2066,
+07/19/2023,06/01/2022,06/30/2022,By Month,Ohio,All Sexes,All Ages,335,10160,518,111,0,748,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2022,06/30/2022,By Month,Pennsylvania,All Sexes,All Ages,490,11115,612,147,12,966,
+07/19/2023,06/01/2022,06/30/2022,By Month,Texas,All Sexes,All Ages,518,18491,1079,206,17,1404,
+07/19/2023,07/01/2022,07/31/2022,By Month,California,All Sexes,All Ages,1574,25322,1798,593,13,2791,
+07/19/2023,07/01/2022,07/31/2022,By Month,Florida,All Sexes,All Ages,1455,19805,1610,609,18,2471,
+07/19/2023,07/01/2022,07/31/2022,By Month,Ohio,All Sexes,All Ages,455,10700,542,128,0,871,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Pennsylvania,All Sexes,All Ages,455,11272,565,136,0,886,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Texas,All Sexes,All Ages,1090,20115,1381,417,0,2055,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,California,All Sexes,All Ages,1391,25167,1738,501,0,2632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Florida,All Sexes,All Ages,1478,19938,1627,663,16,2453,
+07/19/2023,08/01/2022,08/31/2022,By Month,Ohio,All Sexes,All Ages,652,10745,615,206,0,1062,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Pennsylvania,All Sexes,All Ages,551,11354,586,166,0,971,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Texas,All Sexes,All Ages,1132,19550,1341,467,0,2012,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,California,All Sexes,All Ages,913,24400,1613,360,0,2171,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Florida,All Sexes,All Ages,950,18787,1319,401,11,1879,
+07/19/2023,09/01/2022,09/30/2022,By Month,Ohio,All Sexes,All Ages,560,10407,546,171,0,937,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Pennsylvania,All Sexes,All Ages,525,11112,562,167,0,920,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Texas,All Sexes,All Ages,745,18507,1219,287,11,1686,
+07/19/2023,10/01/2022,10/31/2022,By Month,California,All Sexes,All Ages,592,24056,1483,219,21,1875,
+07/19/2023,10/01/2022,10/31/2022,By Month,Florida,All Sexes,All Ages,631,19588,1349,269,14,1724,
+07/19/2023,10/01/2022,10/31/2022,By Month,Ohio,All Sexes,All Ages,475,11201,611,137,0,954,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Pennsylvania,All Sexes,All Ages,598,12330,692,187,0,1109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Texas,All Sexes,All Ages,477,19316,1120,186,39,1449,
+07/19/2023,11/01/2022,11/30/2022,By Month,California,All Sexes,All Ages,845,25984,1864,324,128,2510,
+07/19/2023,11/01/2022,11/30/2022,By Month,Florida,All Sexes,All Ages,494,18851,1245,219,63,1578,
+07/19/2023,11/01/2022,11/30/2022,By Month,Ohio,All Sexes,All Ages,549,11411,661,168,46,1085,
+07/19/2023,11/01/2022,11/30/2022,By Month,Pennsylvania,All Sexes,All Ages,610,12106,726,173,39,1196,
+07/19/2023,11/01/2022,11/30/2022,By Month,Texas,All Sexes,All Ages,401,19482,1210,163,157,1598,
+07/19/2023,12/01/2022,12/31/2022,By Month,California,All Sexes,All Ages,1704,30085,2717,713,383,4072,
+07/19/2023,12/01/2022,12/31/2022,By Month,Florida,All Sexes,All Ages,699,20806,1643,359,124,2100,
+07/19/2023,12/01/2022,12/31/2022,By Month,Ohio,All Sexes,All Ages,666,12814,780,195,243,1482,
+07/19/2023,12/01/2022,12/31/2022,By Month,Pennsylvania,All Sexes,All Ages,639,13632,834,178,212,1494,
+07/19/2023,12/01/2022,12/31/2022,By Month,Texas,All Sexes,All Ages,836,21909,1718,387,205,2355,
+07/19/2023,01/01/2023,01/31/2023,By Month,California,All Sexes,All Ages,1321,28193,2401,544,134,3295,
+07/19/2023,01/01/2023,01/31/2023,By Month,Florida,All Sexes,All Ages,991,22014,1905,525,137,2500,
+07/19/2023,01/01/2023,01/31/2023,By Month,Ohio,All Sexes,All Ages,631,11799,797,202,103,1323,
+07/19/2023,01/01/2023,01/31/2023,By Month,Pennsylvania,All Sexes,All Ages,749,13039,903,251,128,1525,
+07/19/2023,01/01/2023,01/31/2023,By Month,Texas,All Sexes,All Ages,1107,21623,1799,531,110,2472,
+07/19/2023,02/01/2023,02/28/2023,By Month,California,All Sexes,All Ages,749,24692,1928,316,16,2376,
+07/19/2023,02/01/2023,02/28/2023,By Month,Florida,All Sexes,All Ages,664,18687,1446,331,37,1812,
+07/19/2023,02/01/2023,02/28/2023,By Month,Ohio,All Sexes,All Ages,329,10172,532,91,15,783,
+07/19/2023,02/01/2023,02/28/2023,By Month,Pennsylvania,All Sexes,All Ages,473,11169,646,142,20,994,
+07/19/2023,02/01/2023,02/28/2023,By Month,Texas,All Sexes,All Ages,630,18858,1362,306,41,1720,
+07/19/2023,03/01/2023,03/31/2023,By Month,California,All Sexes,All Ages,708,26552,1909,298,15,2332,
+07/19/2023,03/01/2023,03/31/2023,By Month,Florida,All Sexes,All Ages,460,20298,1340,201,34,1631,
+07/19/2023,03/01/2023,03/31/2023,By Month,Ohio,All Sexes,All Ages,380,11313,594,128,0,853,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2023,03/31/2023,By Month,Pennsylvania,All Sexes,All Ages,409,12033,679,110,13,990,
+07/19/2023,03/01/2023,03/31/2023,By Month,Texas,All Sexes,All Ages,456,19880,1282,196,26,1562,
+07/19/2023,04/01/2023,04/30/2023,By Month,California,All Sexes,All Ages,480,24350,1650,187,10,1952,
+07/19/2023,04/01/2023,04/30/2023,By Month,Florida,All Sexes,All Ages,351,18935,1244,155,17,1456,
+07/19/2023,04/01/2023,04/30/2023,By Month,Ohio,All Sexes,All Ages,270,10573,570,104,0,740,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Pennsylvania,All Sexes,All Ages,230,11170,627,72,0,789,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Texas,All Sexes,All Ages,320,18540,1108,147,15,1293,
+07/19/2023,05/01/2023,05/31/2023,By Month,California,All Sexes,All Ages,359,23641,1512,137,0,1743,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Florida,All Sexes,All Ages,292,18948,1169,131,17,1345,
+07/19/2023,05/01/2023,05/31/2023,By Month,Ohio,All Sexes,All Ages,158,10462,499,52,0,607,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Pennsylvania,All Sexes,All Ages,135,11230,510,44,0,604,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Texas,All Sexes,All Ages,223,18611,1088,111,11,1210,
+07/19/2023,06/01/2023,06/30/2023,By Month,California,All Sexes,All Ages,270,21290,1389,115,0,1551,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Florida,All Sexes,All Ages,288,17669,1061,124,11,1236,
+07/19/2023,06/01/2023,06/30/2023,By Month,Ohio,All Sexes,All Ages,96,8949,384,26,0,456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Pennsylvania,All Sexes,All Ages,97,10334,473,27,0,547,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Texas,All Sexes,All Ages,128,16246,884,53,0,966,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,California,All Sexes,All Ages,52,4985,293,22,0,324,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Florida,All Sexes,All Ages,87,5142,279,38,0,334,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Ohio,All Sexes,All Ages,0,1786,65,0,0,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Pennsylvania,All Sexes,All Ages,12,1518,78,0,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Texas,All Sexes,All Ages,15,3648,183,0,0,194,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,California,All Sexes,All Ages,0,25756,2028,0,274,2302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,Florida,All Sexes,All Ages,0,19486,1134,0,150,1284,
+07/19/2023,01/01/2020,01/31/2020,By Month,Ohio,All Sexes,All Ages,0,11279,616,0,75,691,
+07/19/2023,01/01/2020,01/31/2020,By Month,Pennsylvania,All Sexes,All Ages,0,12522,747,0,77,824,
+07/19/2023,01/01/2020,01/31/2020,By Month,Texas,All Sexes,All Ages,0,19050,1412,0,184,1596,
+07/19/2023,02/01/2020,02/29/2020,By Month,California,All Sexes,All Ages,0,23824,1845,0,296,2143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2020,02/29/2020,By Month,Florida,All Sexes,All Ages,0,18207,1140,0,130,1270,
+07/19/2023,02/01/2020,02/29/2020,By Month,Ohio,All Sexes,All Ages,0,10367,535,0,91,626,
+07/19/2023,02/01/2020,02/29/2020,By Month,Pennsylvania,All Sexes,All Ages,0,11462,626,0,90,716,
+07/19/2023,02/01/2020,02/29/2020,By Month,Texas,All Sexes,All Ages,0,17629,1202,0,160,1363,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2020,03/31/2020,By Month,California,All Sexes,All Ages,279,25119,2241,149,189,2560,
+07/19/2023,03/01/2020,03/31/2020,By Month,Florida,All Sexes,All Ages,191,19683,1514,106,101,1699,
+07/19/2023,03/01/2020,03/31/2020,By Month,Ohio,All Sexes,All Ages,98,11151,726,44,111,891,
+07/19/2023,03/01/2020,03/31/2020,By Month,Pennsylvania,All Sexes,All Ages,104,12125,817,51,133,1003,
+07/19/2023,03/01/2020,03/31/2020,By Month,Texas,All Sexes,All Ages,99,18576,1412,32,116,1593,
+07/19/2023,04/01/2020,04/30/2020,By Month,California,All Sexes,All Ages,2021,25617,2907,1156,31,3803,
+07/19/2023,04/01/2020,04/30/2020,By Month,Florida,All Sexes,All Ages,1311,19210,1908,691,31,2554,
+07/19/2023,04/01/2020,04/30/2020,By Month,Ohio,All Sexes,All Ages,1063,11528,1037,458,23,1664,
+07/19/2023,04/01/2020,04/30/2020,By Month,Pennsylvania,All Sexes,All Ages,3502,15430,2047,1321,16,4240,
+07/19/2023,04/01/2020,04/30/2020,By Month,Texas,All Sexes,All Ages,934,18572,1660,392,24,2226,
+07/19/2023,05/01/2020,05/31/2020,By Month,California,All Sexes,All Ages,2238,24935,2578,1222,0,3599,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Florida,All Sexes,All Ages,1131,19097,1585,571,14,2156,
+07/19/2023,05/01/2020,05/31/2020,By Month,Ohio,All Sexes,All Ages,1158,11704,900,451,0,1612,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Pennsylvania,All Sexes,All Ages,2711,13857,1478,980,0,3212,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Texas,All Sexes,All Ages,964,18731,1560,449,13,2087,
+07/19/2023,06/01/2020,06/30/2020,By Month,California,All Sexes,All Ages,2065,23984,2329,1096,0,3302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Florida,All Sexes,All Ages,1083,18799,1507,548,0,2043,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Ohio,All Sexes,All Ages,559,10572,624,225,0,960,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Pennsylvania,All Sexes,All Ages,830,11221,658,237,0,1252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Texas,All Sexes,All Ages,1436,19173,1629,612,0,2456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,California,All Sexes,All Ages,3890,27365,3459,2136,0,5213,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Florida,All Sexes,All Ages,4980,23956,3502,2486,11,6001,
+07/19/2023,07/01/2020,07/31/2020,By Month,Ohio,All Sexes,All Ages,681,11258,746,285,0,1145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Pennsylvania,All Sexes,All Ages,499,11543,593,157,0,935,
+07/19/2023,07/01/2020,07/31/2020,By Month,Texas,All Sexes,All Ages,6971,26487,4703,3593,11,8087,
+07/19/2023,08/01/2020,08/31/2020,By Month,California,All Sexes,All Ages,3761,27535,3399,2150,0,5011,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Florida,All Sexes,All Ages,4786,23539,3785,2792,10,5782,
+07/19/2023,08/01/2020,08/31/2020,By Month,Ohio,All Sexes,All Ages,785,11450,803,352,0,1238,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Pennsylvania,All Sexes,All Ages,506,11505,597,171,0,932,
+07/19/2023,08/01/2020,08/31/2020,By Month,Texas,All Sexes,All Ages,5147,23894,3829,2795,0,6186,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,California,All Sexes,All Ages,2071,24488,2355,1172,0,3254,
+07/19/2023,09/01/2020,09/30/2020,By Month,Florida,All Sexes,All Ages,2023,19523,2180,1202,0,3005,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Ohio,All Sexes,All Ages,638,10901,676,275,0,1040,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Pennsylvania,All Sexes,All Ages,418,11348,572,136,0,854,
+07/19/2023,09/01/2020,09/30/2020,By Month,Texas,All Sexes,All Ages,2342,19891,2224,1260,0,3311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,California,All Sexes,All Ages,1463,24533,2058,817,0,2707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Florida,All Sexes,All Ages,1410,19371,1827,833,0,2405,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Ohio,All Sexes,All Ages,990,11899,868,418,0,1440,
+07/19/2023,10/01/2020,10/31/2020,By Month,Pennsylvania,All Sexes,All Ages,726,12086,751,289,0,1188,
+07/19/2023,10/01/2020,10/31/2020,By Month,Texas,All Sexes,All Ages,2867,21227,2586,1574,12,3890,
+07/19/2023,11/01/2020,11/30/2020,By Month,California,All Sexes,All Ages,2580,26526,2745,1393,0,3934,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Florida,All Sexes,All Ages,1767,19315,2148,1180,12,2742,
+07/19/2023,11/01/2020,11/30/2020,By Month,Ohio,All Sexes,All Ages,3074,13940,1836,1348,0,3563,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Pennsylvania,All Sexes,All Ages,2565,14215,1619,1063,0,3125,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Texas,All Sexes,All Ages,5224,23446,4038,3025,14,6245,
+07/19/2023,12/01/2020,12/31/2020,By Month,California,All Sexes,All Ages,13207,41094,9090,7498,11,14802,
+07/19/2023,12/01/2020,12/31/2020,By Month,Florida,All Sexes,All Ages,3145,22879,3207,2077,18,4288,
+07/19/2023,12/01/2020,12/31/2020,By Month,Ohio,All Sexes,All Ages,6051,17897,3410,2831,0,6632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Pennsylvania,All Sexes,All Ages,6546,19289,3139,2580,0,7107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Texas,All Sexes,All Ages,7557,27012,5412,4298,26,8680,
+07/19/2023,01/01/2021,01/31/2021,By Month,California,All Sexes,All Ages,20065,48148,13802,12191,16,21687,
+07/19/2023,01/01/2021,01/31/2021,By Month,Florida,All Sexes,All Ages,5022,24926,4526,3363,0,6192,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Ohio,All Sexes,All Ages,4187,15200,2543,2027,0,4707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Pennsylvania,All Sexes,All Ages,4807,17063,2717,2138,0,5390,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Texas,All Sexes,All Ages,10725,30681,7364,6199,20,11896,
+07/19/2023,02/01/2021,02/28/2021,By Month,California,All Sexes,All Ages,7715,30047,6267,4961,11,9029,
+07/19/2023,02/01/2021,02/28/2021,By Month,Florida,All Sexes,All Ages,3202,20961,3158,2150,0,4216,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Ohio,All Sexes,All Ages,1643,11640,1220,801,0,2063,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Pennsylvania,All Sexes,All Ages,1935,12556,1388,920,0,2404,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Texas,All Sexes,All Ages,5831,24064,4427,3409,15,6855,
+07/19/2023,03/01/2021,03/31/2021,By Month,California,All Sexes,All Ages,2337,26792,2776,1441,0,3675,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Florida,All Sexes,All Ages,1829,20623,2292,1261,0,2864,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Ohio,All Sexes,All Ages,779,11043,867,386,0,1262,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Pennsylvania,All Sexes,All Ages,1008,12127,936,481,0,1465,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Texas,All Sexes,All Ages,2673,21061,2634,1601,10,3716,
+07/19/2023,04/01/2021,04/30/2021,By Month,California,All Sexes,All Ages,1008,23276,1719,552,0,2176,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Florida,All Sexes,All Ages,1513,19804,1983,1018,0,2482,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Ohio,All Sexes,All Ages,672,10628,737,336,0,1075,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1252,12002,1034,629,0,1658,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Texas,All Sexes,All Ages,1460,19162,1810,836,0,2440,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,California,All Sexes,All Ages,695,23503,1527,366,0,1858,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Florida,All Sexes,All Ages,1327,20058,1833,935,0,2229,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Ohio,All Sexes,All Ages,548,10883,715,286,0,978,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Pennsylvania,All Sexes,All Ages,891,11913,878,479,0,1290,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Texas,All Sexes,All Ages,1209,19221,1568,664,0,2117,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,California,All Sexes,All Ages,450,22731,1353,229,0,1574,
+07/19/2023,06/01/2021,06/30/2021,By Month,Florida,All Sexes,All Ages,834,18947,1493,565,0,1763,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Ohio,All Sexes,All Ages,328,10087,554,156,0,727,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Pennsylvania,All Sexes,All Ages,341,10801,566,164,0,743,
+07/19/2023,06/01/2021,06/30/2021,By Month,Texas,All Sexes,All Ages,766,18462,1360,442,0,1687,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,California,All Sexes,All Ages,822,23772,1624,465,0,1981,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Florida,All Sexes,All Ages,1997,21054,2394,1313,0,3082,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Ohio,All Sexes,All Ages,218,10383,528,95,0,651,
+07/19/2023,07/01/2021,07/31/2021,By Month,Pennsylvania,All Sexes,All Ages,172,11107,532,75,0,629,
+07/19/2023,07/01/2021,07/31/2021,By Month,Texas,All Sexes,All Ages,1343,19837,1778,765,0,2360,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,California,All Sexes,All Ages,3413,27128,3425,2128,0,4710,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Florida,All Sexes,All Ages,10406,30209,8391,7312,0,11487,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Ohio,All Sexes,All Ages,804,11402,840,426,0,1218,
+07/19/2023,08/01/2021,08/31/2021,By Month,Pennsylvania,All Sexes,All Ages,595,11781,782,315,0,1062,
+07/19/2023,08/01/2021,08/31/2021,By Month,Texas,All Sexes,All Ages,7321,26563,5499,4427,13,8399,
+07/19/2023,09/01/2021,09/30/2021,By Month,California,All Sexes,All Ages,4264,27310,4135,2890,0,5511,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Florida,All Sexes,All Ages,8334,26986,6865,5811,0,9392,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Ohio,All Sexes,All Ages,2345,12983,1903,1428,0,2820,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1373,12563,1281,747,0,1909,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Texas,All Sexes,All Ages,8794,27271,6474,5471,15,9809,
+07/19/2023,10/01/2021,10/31/2021,By Month,California,All Sexes,All Ages,2780,27229,3150,1851,0,4081,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Florida,All Sexes,All Ages,2657,21422,2880,1801,0,3738,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Ohio,All Sexes,All Ages,2694,13753,2167,1663,0,3200,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Pennsylvania,All Sexes,All Ages,2263,13942,1757,1218,0,2803,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Texas,All Sexes,All Ages,4449,23097,3783,2817,13,5425,
+07/19/2023,11/01/2021,11/30/2021,By Month,California,All Sexes,All Ages,2428,25838,2955,1578,0,3808,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Florida,All Sexes,All Ages,889,19295,1564,582,0,1876,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Ohio,All Sexes,All Ages,2241,13472,1854,1307,0,2788,
+07/19/2023,11/01/2021,11/30/2021,By Month,Pennsylvania,All Sexes,All Ages,2338,14151,1868,1303,0,2904,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Texas,All Sexes,All Ages,1957,20451,2169,1166,0,2967,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,California,All Sexes,All Ages,2352,28830,3155,1495,0,4019,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,Florida,All Sexes,All Ages,863,20498,1614,513,22,1983,
+07/19/2023,12/01/2021,12/31/2021,By Month,Ohio,All Sexes,All Ages,4077,16091,3067,2441,17,4719,
+07/19/2023,12/01/2021,12/31/2021,By Month,Pennsylvania,All Sexes,All Ages,3571,16228,2629,2001,28,4225,
+07/19/2023,12/01/2021,12/31/2021,By Month,Texas,All Sexes,All Ages,2259,21620,2522,1355,46,3467,
+07/19/2023,01/01/2022,01/31/2022,By Month,California,All Sexes,All Ages,6852,34938,5586,3918,20,8536,
+07/19/2023,01/01/2022,01/31/2022,By Month,Florida,All Sexes,All Ages,4615,25552,4155,2904,31,5890,
+07/19/2023,01/01/2022,01/31/2022,By Month,Ohio,All Sexes,All Ages,4956,16989,3352,2738,22,5587,
+07/19/2023,01/01/2022,01/31/2022,By Month,Pennsylvania,All Sexes,All Ages,4513,17570,2888,2228,30,5193,
+07/19/2023,01/01/2022,01/31/2022,By Month,Texas,All Sexes,All Ages,6489,27880,4835,3585,40,7762,
+07/19/2023,02/01/2022,02/28/2022,By Month,California,All Sexes,All Ages,4974,28610,4341,2946,12,6375,
+07/19/2023,02/01/2022,02/28/2022,By Month,Florida,All Sexes,All Ages,3458,21707,3127,2110,17,4489,
+07/19/2023,02/01/2022,02/28/2022,By Month,Ohio,All Sexes,All Ages,2088,11959,1509,1072,10,2533,
+07/19/2023,02/01/2022,02/28/2022,By Month,Pennsylvania,All Sexes,All Ages,1906,12654,1330,873,25,2378,
+07/19/2023,02/01/2022,02/28/2022,By Month,Texas,All Sexes,All Ages,4803,23084,3756,2781,25,5790,
+07/19/2023,03/01/2022,03/31/2022,By Month,California,All Sexes,All Ages,1489,25534,2135,791,0,2838,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2022,03/31/2022,By Month,Florida,All Sexes,All Ages,1111,20500,1660,584,22,2208,
+07/19/2023,03/01/2022,03/31/2022,By Month,Ohio,All Sexes,All Ages,674,11182,743,272,10,1152,
+07/19/2023,03/01/2022,03/31/2022,By Month,Pennsylvania,All Sexes,All Ages,591,12052,717,260,15,1061,
+07/19/2023,03/01/2022,03/31/2022,By Month,Texas,All Sexes,All Ages,1363,20441,1716,692,44,2426,
+07/19/2023,04/01/2022,04/30/2022,By Month,California,All Sexes,All Ages,522,23315,1452,211,0,1770,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Florida,All Sexes,All Ages,456,18632,1162,184,10,1441,
+07/19/2023,04/01/2022,04/30/2022,By Month,Ohio,All Sexes,All Ages,279,10190,527,91,0,724,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Pennsylvania,All Sexes,All Ages,298,11129,590,100,24,811,
+07/19/2023,04/01/2022,04/30/2022,By Month,Texas,All Sexes,All Ages,437,18218,1134,193,31,1405,
+07/19/2023,05/01/2022,05/31/2022,By Month,California,All Sexes,All Ages,614,24195,1498,226,23,1908,
+07/19/2023,05/01/2022,05/31/2022,By Month,Florida,All Sexes,All Ages,536,19181,1256,231,19,1578,
+07/19/2023,05/01/2022,05/31/2022,By Month,Ohio,All Sexes,All Ages,284,10404,495,73,14,719,
+07/19/2023,05/01/2022,05/31/2022,By Month,Pennsylvania,All Sexes,All Ages,466,11419,601,140,18,944,
+07/19/2023,05/01/2022,05/31/2022,By Month,Texas,All Sexes,All Ages,323,18427,1058,124,14,1270,
+07/19/2023,06/01/2022,06/30/2022,By Month,California,All Sexes,All Ages,949,23922,1527,371,51,2153,
+07/19/2023,06/01/2022,06/30/2022,By Month,Florida,All Sexes,All Ages,1016,19196,1438,438,51,2066,
+07/19/2023,06/01/2022,06/30/2022,By Month,Ohio,All Sexes,All Ages,335,10160,518,111,0,748,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2022,06/30/2022,By Month,Pennsylvania,All Sexes,All Ages,490,11115,612,147,12,966,
+07/19/2023,06/01/2022,06/30/2022,By Month,Texas,All Sexes,All Ages,518,18491,1079,206,17,1404,
+07/19/2023,07/01/2022,07/31/2022,By Month,California,All Sexes,All Ages,1574,25322,1798,593,13,2791,
+07/19/2023,07/01/2022,07/31/2022,By Month,Florida,All Sexes,All Ages,1455,19805,1610,609,18,2471,
+07/19/2023,07/01/2022,07/31/2022,By Month,Ohio,All Sexes,All Ages,455,10700,542,128,0,871,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Pennsylvania,All Sexes,All Ages,455,11272,565,136,0,886,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Texas,All Sexes,All Ages,1090,20115,1381,417,0,2055,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,California,All Sexes,All Ages,1391,25167,1738,501,0,2632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Florida,All Sexes,All Ages,1478,19938,1627,663,16,2453,
+07/19/2023,08/01/2022,08/31/2022,By Month,Ohio,All Sexes,All Ages,652,10745,615,206,0,1062,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Pennsylvania,All Sexes,All Ages,551,11354,586,166,0,971,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Texas,All Sexes,All Ages,1132,19550,1341,467,0,2012,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,California,All Sexes,All Ages,913,24400,1613,360,0,2171,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Florida,All Sexes,All Ages,950,18787,1319,401,11,1879,
+07/19/2023,09/01/2022,09/30/2022,By Month,Ohio,All Sexes,All Ages,560,10407,546,171,0,937,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Pennsylvania,All Sexes,All Ages,525,11112,562,167,0,920,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Texas,All Sexes,All Ages,745,18507,1219,287,11,1686,
+07/19/2023,10/01/2022,10/31/2022,By Month,California,All Sexes,All Ages,592,24056,1483,219,21,1875,
+07/19/2023,10/01/2022,10/31/2022,By Month,Florida,All Sexes,All Ages,631,19588,1349,269,14,1724,
+07/19/2023,10/01/2022,10/31/2022,By Month,Ohio,All Sexes,All Ages,475,11201,611,137,0,954,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Pennsylvania,All Sexes,All Ages,598,12330,692,187,0,1109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Texas,All Sexes,All Ages,477,19316,1120,186,39,1449,
+07/19/2023,11/01/2022,11/30/2022,By Month,California,All Sexes,All Ages,845,25984,1864,324,128,2510,
+07/19/2023,11/01/2022,11/30/2022,By Month,Florida,All Sexes,All Ages,494,18851,1245,219,63,1578,
+07/19/2023,11/01/2022,11/30/2022,By Month,Ohio,All Sexes,All Ages,549,11411,661,168,46,1085,
+07/19/2023,11/01/2022,11/30/2022,By Month,Pennsylvania,All Sexes,All Ages,610,12106,726,173,39,1196,
+07/19/2023,11/01/2022,11/30/2022,By Month,Texas,All Sexes,All Ages,401,19482,1210,163,157,1598,
+07/19/2023,12/01/2022,12/31/2022,By Month,California,All Sexes,All Ages,1704,30085,2717,713,383,4072,
+07/19/2023,12/01/2022,12/31/2022,By Month,Florida,All Sexes,All Ages,699,20806,1643,359,124,2100,
+07/19/2023,12/01/2022,12/31/2022,By Month,Ohio,All Sexes,All Ages,666,12814,780,195,243,1482,
+07/19/2023,12/01/2022,12/31/2022,By Month,Pennsylvania,All Sexes,All Ages,639,13632,834,178,212,1494,
+07/19/2023,12/01/2022,12/31/2022,By Month,Texas,All Sexes,All Ages,836,21909,1718,387,205,2355,
+07/19/2023,01/01/2023,01/31/2023,By Month,California,All Sexes,All Ages,1321,28193,2401,544,134,3295,
+07/19/2023,01/01/2023,01/31/2023,By Month,Florida,All Sexes,All Ages,991,22014,1905,525,137,2500,
+07/19/2023,01/01/2023,01/31/2023,By Month,Ohio,All Sexes,All Ages,631,11799,797,202,103,1323,
+07/19/2023,01/01/2023,01/31/2023,By Month,Pennsylvania,All Sexes,All Ages,749,13039,903,251,128,1525,
+07/19/2023,01/01/2023,01/31/2023,By Month,Texas,All Sexes,All Ages,1107,21623,1799,531,110,2472,
+07/19/2023,02/01/2023,02/28/2023,By Month,California,All Sexes,All Ages,749,24692,1928,316,16,2376,
+07/19/2023,02/01/2023,02/28/2023,By Month,Florida,All Sexes,All Ages,664,18687,1446,331,37,1812,
+07/19/2023,02/01/2023,02/28/2023,By Month,Ohio,All Sexes,All Ages,329,10172,532,91,15,783,
+07/19/2023,02/01/2023,02/28/2023,By Month,Pennsylvania,All Sexes,All Ages,473,11169,646,142,20,994,
+07/19/2023,02/01/2023,02/28/2023,By Month,Texas,All Sexes,All Ages,630,18858,1362,306,41,1720,
+07/19/2023,03/01/2023,03/31/2023,By Month,California,All Sexes,All Ages,708,26552,1909,298,15,2332,
+07/19/2023,03/01/2023,03/31/2023,By Month,Florida,All Sexes,All Ages,460,20298,1340,201,34,1631,
+07/19/2023,03/01/2023,03/31/2023,By Month,Ohio,All Sexes,All Ages,380,11313,594,128,0,853,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2023,03/31/2023,By Month,Pennsylvania,All Sexes,All Ages,409,12033,679,110,13,990,
+07/19/2023,03/01/2023,03/31/2023,By Month,Texas,All Sexes,All Ages,456,19880,1282,196,26,1562,
+07/19/2023,04/01/2023,04/30/2023,By Month,California,All Sexes,All Ages,480,24350,1650,187,10,1952,
+07/19/2023,04/01/2023,04/30/2023,By Month,Florida,All Sexes,All Ages,351,18935,1244,155,17,1456,
+07/19/2023,04/01/2023,04/30/2023,By Month,Ohio,All Sexes,All Ages,270,10573,570,104,0,740,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Pennsylvania,All Sexes,All Ages,230,11170,627,72,0,789,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Texas,All Sexes,All Ages,320,18540,1108,147,15,1293,
+07/19/2023,05/01/2023,05/31/2023,By Month,California,All Sexes,All Ages,359,23641,1512,137,0,1743,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Florida,All Sexes,All Ages,292,18948,1169,131,17,1345,
+07/19/2023,05/01/2023,05/31/2023,By Month,Ohio,All Sexes,All Ages,158,10462,499,52,0,607,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Pennsylvania,All Sexes,All Ages,135,11230,510,44,0,604,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Texas,All Sexes,All Ages,223,18611,1088,111,11,1210,
+07/19/2023,06/01/2023,06/30/2023,By Month,California,All Sexes,All Ages,270,21290,1389,115,0,1551,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Florida,All Sexes,All Ages,288,17669,1061,124,11,1236,
+07/19/2023,06/01/2023,06/30/2023,By Month,Ohio,All Sexes,All Ages,96,8949,384,26,0,456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Pennsylvania,All Sexes,All Ages,97,10334,473,27,0,547,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Texas,All Sexes,All Ages,128,16246,884,53,0,966,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,California,All Sexes,All Ages,52,4985,293,22,0,324,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Florida,All Sexes,All Ages,87,5142,279,38,0,334,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Ohio,All Sexes,All Ages,0,1786,65,0,0,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Pennsylvania,All Sexes,All Ages,12,1518,78,0,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Texas,All Sexes,All Ages,15,3648,183,0,0,194,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,California,All Sexes,All Ages,0,25756,2028,0,274,2302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2020,01/31/2020,By Month,Florida,All Sexes,All Ages,0,19486,1134,0,150,1284,
+07/19/2023,01/01/2020,01/31/2020,By Month,Ohio,All Sexes,All Ages,0,11279,616,0,75,691,
+07/19/2023,01/01/2020,01/31/2020,By Month,Pennsylvania,All Sexes,All Ages,0,12522,747,0,77,824,
+07/19/2023,01/01/2020,01/31/2020,By Month,Texas,All Sexes,All Ages,0,19050,1412,0,184,1596,
+07/19/2023,02/01/2020,02/29/2020,By Month,California,All Sexes,All Ages,0,23824,1845,0,296,2143,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2020,02/29/2020,By Month,Florida,All Sexes,All Ages,0,18207,1140,0,130,1270,
+07/19/2023,02/01/2020,02/29/2020,By Month,Ohio,All Sexes,All Ages,0,10367,535,0,91,626,
+07/19/2023,02/01/2020,02/29/2020,By Month,Pennsylvania,All Sexes,All Ages,0,11462,626,0,90,716,
+07/19/2023,02/01/2020,02/29/2020,By Month,Texas,All Sexes,All Ages,0,17629,1202,0,160,1363,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2020,03/31/2020,By Month,California,All Sexes,All Ages,279,25119,2241,149,189,2560,
+07/19/2023,03/01/2020,03/31/2020,By Month,Florida,All Sexes,All Ages,191,19683,1514,106,101,1699,
+07/19/2023,03/01/2020,03/31/2020,By Month,Ohio,All Sexes,All Ages,98,11151,726,44,111,891,
+07/19/2023,03/01/2020,03/31/2020,By Month,Pennsylvania,All Sexes,All Ages,104,12125,817,51,133,1003,
+07/19/2023,03/01/2020,03/31/2020,By Month,Texas,All Sexes,All Ages,99,18576,1412,32,116,1593,
+07/19/2023,04/01/2020,04/30/2020,By Month,California,All Sexes,All Ages,2021,25617,2907,1156,31,3803,
+07/19/2023,04/01/2020,04/30/2020,By Month,Florida,All Sexes,All Ages,1311,19210,1908,691,31,2554,
+07/19/2023,04/01/2020,04/30/2020,By Month,Ohio,All Sexes,All Ages,1063,11528,1037,458,23,1664,
+07/19/2023,04/01/2020,04/30/2020,By Month,Pennsylvania,All Sexes,All Ages,3502,15430,2047,1321,16,4240,
+07/19/2023,04/01/2020,04/30/2020,By Month,Texas,All Sexes,All Ages,934,18572,1660,392,24,2226,
+07/19/2023,05/01/2020,05/31/2020,By Month,California,All Sexes,All Ages,2238,24935,2578,1222,0,3599,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Florida,All Sexes,All Ages,1131,19097,1585,571,14,2156,
+07/19/2023,05/01/2020,05/31/2020,By Month,Ohio,All Sexes,All Ages,1158,11704,900,451,0,1612,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Pennsylvania,All Sexes,All Ages,2711,13857,1478,980,0,3212,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2020,05/31/2020,By Month,Texas,All Sexes,All Ages,964,18731,1560,449,13,2087,
+07/19/2023,06/01/2020,06/30/2020,By Month,California,All Sexes,All Ages,2065,23984,2329,1096,0,3302,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Florida,All Sexes,All Ages,1083,18799,1507,548,0,2043,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Ohio,All Sexes,All Ages,559,10572,624,225,0,960,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Pennsylvania,All Sexes,All Ages,830,11221,658,237,0,1252,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2020,06/30/2020,By Month,Texas,All Sexes,All Ages,1436,19173,1629,612,0,2456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,California,All Sexes,All Ages,3890,27365,3459,2136,0,5213,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Florida,All Sexes,All Ages,4980,23956,3502,2486,11,6001,
+07/19/2023,07/01/2020,07/31/2020,By Month,Ohio,All Sexes,All Ages,681,11258,746,285,0,1145,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2020,07/31/2020,By Month,Pennsylvania,All Sexes,All Ages,499,11543,593,157,0,935,
+07/19/2023,07/01/2020,07/31/2020,By Month,Texas,All Sexes,All Ages,6971,26487,4703,3593,11,8087,
+07/19/2023,08/01/2020,08/31/2020,By Month,California,All Sexes,All Ages,3761,27535,3399,2150,0,5011,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Florida,All Sexes,All Ages,4786,23539,3785,2792,10,5782,
+07/19/2023,08/01/2020,08/31/2020,By Month,Ohio,All Sexes,All Ages,785,11450,803,352,0,1238,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2020,08/31/2020,By Month,Pennsylvania,All Sexes,All Ages,506,11505,597,171,0,932,
+07/19/2023,08/01/2020,08/31/2020,By Month,Texas,All Sexes,All Ages,5147,23894,3829,2795,0,6186,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,California,All Sexes,All Ages,2071,24488,2355,1172,0,3254,
+07/19/2023,09/01/2020,09/30/2020,By Month,Florida,All Sexes,All Ages,2023,19523,2180,1202,0,3005,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Ohio,All Sexes,All Ages,638,10901,676,275,0,1040,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2020,09/30/2020,By Month,Pennsylvania,All Sexes,All Ages,418,11348,572,136,0,854,
+07/19/2023,09/01/2020,09/30/2020,By Month,Texas,All Sexes,All Ages,2342,19891,2224,1260,0,3311,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,California,All Sexes,All Ages,1463,24533,2058,817,0,2707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Florida,All Sexes,All Ages,1410,19371,1827,833,0,2405,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2020,10/31/2020,By Month,Ohio,All Sexes,All Ages,990,11899,868,418,0,1440,
+07/19/2023,10/01/2020,10/31/2020,By Month,Pennsylvania,All Sexes,All Ages,726,12086,751,289,0,1188,
+07/19/2023,10/01/2020,10/31/2020,By Month,Texas,All Sexes,All Ages,2867,21227,2586,1574,12,3890,
+07/19/2023,11/01/2020,11/30/2020,By Month,California,All Sexes,All Ages,2580,26526,2745,1393,0,3934,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Florida,All Sexes,All Ages,1767,19315,2148,1180,12,2742,
+07/19/2023,11/01/2020,11/30/2020,By Month,Ohio,All Sexes,All Ages,3074,13940,1836,1348,0,3563,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Pennsylvania,All Sexes,All Ages,2565,14215,1619,1063,0,3125,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2020,11/30/2020,By Month,Texas,All Sexes,All Ages,5224,23446,4038,3025,14,6245,
+07/19/2023,12/01/2020,12/31/2020,By Month,California,All Sexes,All Ages,13207,41094,9090,7498,11,14802,
+07/19/2023,12/01/2020,12/31/2020,By Month,Florida,All Sexes,All Ages,3145,22879,3207,2077,18,4288,
+07/19/2023,12/01/2020,12/31/2020,By Month,Ohio,All Sexes,All Ages,6051,17897,3410,2831,0,6632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Pennsylvania,All Sexes,All Ages,6546,19289,3139,2580,0,7107,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2020,12/31/2020,By Month,Texas,All Sexes,All Ages,7557,27012,5412,4298,26,8680,
+07/19/2023,01/01/2021,01/31/2021,By Month,California,All Sexes,All Ages,20065,48148,13802,12191,16,21687,
+07/19/2023,01/01/2021,01/31/2021,By Month,Florida,All Sexes,All Ages,5022,24926,4526,3363,0,6192,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Ohio,All Sexes,All Ages,4187,15200,2543,2027,0,4707,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Pennsylvania,All Sexes,All Ages,4807,17063,2717,2138,0,5390,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,01/01/2021,01/31/2021,By Month,Texas,All Sexes,All Ages,10725,30681,7364,6199,20,11896,
+07/19/2023,02/01/2021,02/28/2021,By Month,California,All Sexes,All Ages,7715,30047,6267,4961,11,9029,
+07/19/2023,02/01/2021,02/28/2021,By Month,Florida,All Sexes,All Ages,3202,20961,3158,2150,0,4216,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Ohio,All Sexes,All Ages,1643,11640,1220,801,0,2063,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Pennsylvania,All Sexes,All Ages,1935,12556,1388,920,0,2404,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,02/01/2021,02/28/2021,By Month,Texas,All Sexes,All Ages,5831,24064,4427,3409,15,6855,
+07/19/2023,03/01/2021,03/31/2021,By Month,California,All Sexes,All Ages,2337,26792,2776,1441,0,3675,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Florida,All Sexes,All Ages,1829,20623,2292,1261,0,2864,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Ohio,All Sexes,All Ages,779,11043,867,386,0,1262,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Pennsylvania,All Sexes,All Ages,1008,12127,936,481,0,1465,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2021,03/31/2021,By Month,Texas,All Sexes,All Ages,2673,21061,2634,1601,10,3716,
+07/19/2023,04/01/2021,04/30/2021,By Month,California,All Sexes,All Ages,1008,23276,1719,552,0,2176,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Florida,All Sexes,All Ages,1513,19804,1983,1018,0,2482,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Ohio,All Sexes,All Ages,672,10628,737,336,0,1075,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1252,12002,1034,629,0,1658,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2021,04/30/2021,By Month,Texas,All Sexes,All Ages,1460,19162,1810,836,0,2440,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,California,All Sexes,All Ages,695,23503,1527,366,0,1858,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Florida,All Sexes,All Ages,1327,20058,1833,935,0,2229,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Ohio,All Sexes,All Ages,548,10883,715,286,0,978,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Pennsylvania,All Sexes,All Ages,891,11913,878,479,0,1290,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2021,05/31/2021,By Month,Texas,All Sexes,All Ages,1209,19221,1568,664,0,2117,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,California,All Sexes,All Ages,450,22731,1353,229,0,1574,
+07/19/2023,06/01/2021,06/30/2021,By Month,Florida,All Sexes,All Ages,834,18947,1493,565,0,1763,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Ohio,All Sexes,All Ages,328,10087,554,156,0,727,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2021,06/30/2021,By Month,Pennsylvania,All Sexes,All Ages,341,10801,566,164,0,743,
+07/19/2023,06/01/2021,06/30/2021,By Month,Texas,All Sexes,All Ages,766,18462,1360,442,0,1687,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,California,All Sexes,All Ages,822,23772,1624,465,0,1981,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Florida,All Sexes,All Ages,1997,21054,2394,1313,0,3082,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2021,07/31/2021,By Month,Ohio,All Sexes,All Ages,218,10383,528,95,0,651,
+07/19/2023,07/01/2021,07/31/2021,By Month,Pennsylvania,All Sexes,All Ages,172,11107,532,75,0,629,
+07/19/2023,07/01/2021,07/31/2021,By Month,Texas,All Sexes,All Ages,1343,19837,1778,765,0,2360,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,California,All Sexes,All Ages,3413,27128,3425,2128,0,4710,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Florida,All Sexes,All Ages,10406,30209,8391,7312,0,11487,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2021,08/31/2021,By Month,Ohio,All Sexes,All Ages,804,11402,840,426,0,1218,
+07/19/2023,08/01/2021,08/31/2021,By Month,Pennsylvania,All Sexes,All Ages,595,11781,782,315,0,1062,
+07/19/2023,08/01/2021,08/31/2021,By Month,Texas,All Sexes,All Ages,7321,26563,5499,4427,13,8399,
+07/19/2023,09/01/2021,09/30/2021,By Month,California,All Sexes,All Ages,4264,27310,4135,2890,0,5511,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Florida,All Sexes,All Ages,8334,26986,6865,5811,0,9392,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Ohio,All Sexes,All Ages,2345,12983,1903,1428,0,2820,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Pennsylvania,All Sexes,All Ages,1373,12563,1281,747,0,1909,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2021,09/30/2021,By Month,Texas,All Sexes,All Ages,8794,27271,6474,5471,15,9809,
+07/19/2023,10/01/2021,10/31/2021,By Month,California,All Sexes,All Ages,2780,27229,3150,1851,0,4081,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Florida,All Sexes,All Ages,2657,21422,2880,1801,0,3738,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Ohio,All Sexes,All Ages,2694,13753,2167,1663,0,3200,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Pennsylvania,All Sexes,All Ages,2263,13942,1757,1218,0,2803,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2021,10/31/2021,By Month,Texas,All Sexes,All Ages,4449,23097,3783,2817,13,5425,
+07/19/2023,11/01/2021,11/30/2021,By Month,California,All Sexes,All Ages,2428,25838,2955,1578,0,3808,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Florida,All Sexes,All Ages,889,19295,1564,582,0,1876,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Ohio,All Sexes,All Ages,2241,13472,1854,1307,0,2788,
+07/19/2023,11/01/2021,11/30/2021,By Month,Pennsylvania,All Sexes,All Ages,2338,14151,1868,1303,0,2904,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,11/01/2021,11/30/2021,By Month,Texas,All Sexes,All Ages,1957,20451,2169,1166,0,2967,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,California,All Sexes,All Ages,2352,28830,3155,1495,0,4019,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,12/01/2021,12/31/2021,By Month,Florida,All Sexes,All Ages,863,20498,1614,513,22,1983,
+07/19/2023,12/01/2021,12/31/2021,By Month,Ohio,All Sexes,All Ages,4077,16091,3067,2441,17,4719,
+07/19/2023,12/01/2021,12/31/2021,By Month,Pennsylvania,All Sexes,All Ages,3571,16228,2629,2001,28,4225,
+07/19/2023,12/01/2021,12/31/2021,By Month,Texas,All Sexes,All Ages,2259,21620,2522,1355,46,3467,
+07/19/2023,01/01/2022,01/31/2022,By Month,California,All Sexes,All Ages,6852,34938,5586,3918,20,8536,
+07/19/2023,01/01/2022,01/31/2022,By Month,Florida,All Sexes,All Ages,4615,25552,4155,2904,31,5890,
+07/19/2023,01/01/2022,01/31/2022,By Month,Ohio,All Sexes,All Ages,4956,16989,3352,2738,22,5587,
+07/19/2023,01/01/2022,01/31/2022,By Month,Pennsylvania,All Sexes,All Ages,4513,17570,2888,2228,30,5193,
+07/19/2023,01/01/2022,01/31/2022,By Month,Texas,All Sexes,All Ages,6489,27880,4835,3585,40,7762,
+07/19/2023,02/01/2022,02/28/2022,By Month,California,All Sexes,All Ages,4974,28610,4341,2946,12,6375,
+07/19/2023,02/01/2022,02/28/2022,By Month,Florida,All Sexes,All Ages,3458,21707,3127,2110,17,4489,
+07/19/2023,02/01/2022,02/28/2022,By Month,Ohio,All Sexes,All Ages,2088,11959,1509,1072,10,2533,
+07/19/2023,02/01/2022,02/28/2022,By Month,Pennsylvania,All Sexes,All Ages,1906,12654,1330,873,25,2378,
+07/19/2023,02/01/2022,02/28/2022,By Month,Texas,All Sexes,All Ages,4803,23084,3756,2781,25,5790,
+07/19/2023,03/01/2022,03/31/2022,By Month,California,All Sexes,All Ages,1489,25534,2135,791,0,2838,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2022,03/31/2022,By Month,Florida,All Sexes,All Ages,1111,20500,1660,584,22,2208,
+07/19/2023,03/01/2022,03/31/2022,By Month,Ohio,All Sexes,All Ages,674,11182,743,272,10,1152,
+07/19/2023,03/01/2022,03/31/2022,By Month,Pennsylvania,All Sexes,All Ages,591,12052,717,260,15,1061,
+07/19/2023,03/01/2022,03/31/2022,By Month,Texas,All Sexes,All Ages,1363,20441,1716,692,44,2426,
+07/19/2023,04/01/2022,04/30/2022,By Month,California,All Sexes,All Ages,522,23315,1452,211,0,1770,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Florida,All Sexes,All Ages,456,18632,1162,184,10,1441,
+07/19/2023,04/01/2022,04/30/2022,By Month,Ohio,All Sexes,All Ages,279,10190,527,91,0,724,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2022,04/30/2022,By Month,Pennsylvania,All Sexes,All Ages,298,11129,590,100,24,811,
+07/19/2023,04/01/2022,04/30/2022,By Month,Texas,All Sexes,All Ages,437,18218,1134,193,31,1405,
+07/19/2023,05/01/2022,05/31/2022,By Month,California,All Sexes,All Ages,614,24195,1498,226,23,1908,
+07/19/2023,05/01/2022,05/31/2022,By Month,Florida,All Sexes,All Ages,536,19181,1256,231,19,1578,
+07/19/2023,05/01/2022,05/31/2022,By Month,Ohio,All Sexes,All Ages,284,10404,495,73,14,719,
+07/19/2023,05/01/2022,05/31/2022,By Month,Pennsylvania,All Sexes,All Ages,466,11419,601,140,18,944,
+07/19/2023,05/01/2022,05/31/2022,By Month,Texas,All Sexes,All Ages,323,18427,1058,124,14,1270,
+07/19/2023,06/01/2022,06/30/2022,By Month,California,All Sexes,All Ages,949,23922,1527,371,51,2153,
+07/19/2023,06/01/2022,06/30/2022,By Month,Florida,All Sexes,All Ages,1016,19196,1438,438,51,2066,
+07/19/2023,06/01/2022,06/30/2022,By Month,Ohio,All Sexes,All Ages,335,10160,518,111,0,748,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2022,06/30/2022,By Month,Pennsylvania,All Sexes,All Ages,490,11115,612,147,12,966,
+07/19/2023,06/01/2022,06/30/2022,By Month,Texas,All Sexes,All Ages,518,18491,1079,206,17,1404,
+07/19/2023,07/01/2022,07/31/2022,By Month,California,All Sexes,All Ages,1574,25322,1798,593,13,2791,
+07/19/2023,07/01/2022,07/31/2022,By Month,Florida,All Sexes,All Ages,1455,19805,1610,609,18,2471,
+07/19/2023,07/01/2022,07/31/2022,By Month,Ohio,All Sexes,All Ages,455,10700,542,128,0,871,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Pennsylvania,All Sexes,All Ages,455,11272,565,136,0,886,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2022,07/31/2022,By Month,Texas,All Sexes,All Ages,1090,20115,1381,417,0,2055,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,California,All Sexes,All Ages,1391,25167,1738,501,0,2632,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Florida,All Sexes,All Ages,1478,19938,1627,663,16,2453,
+07/19/2023,08/01/2022,08/31/2022,By Month,Ohio,All Sexes,All Ages,652,10745,615,206,0,1062,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Pennsylvania,All Sexes,All Ages,551,11354,586,166,0,971,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,08/01/2022,08/31/2022,By Month,Texas,All Sexes,All Ages,1132,19550,1341,467,0,2012,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,California,All Sexes,All Ages,913,24400,1613,360,0,2171,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Florida,All Sexes,All Ages,950,18787,1319,401,11,1879,
+07/19/2023,09/01/2022,09/30/2022,By Month,Ohio,All Sexes,All Ages,560,10407,546,171,0,937,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Pennsylvania,All Sexes,All Ages,525,11112,562,167,0,920,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,09/01/2022,09/30/2022,By Month,Texas,All Sexes,All Ages,745,18507,1219,287,11,1686,
+07/19/2023,10/01/2022,10/31/2022,By Month,California,All Sexes,All Ages,592,24056,1483,219,21,1875,
+07/19/2023,10/01/2022,10/31/2022,By Month,Florida,All Sexes,All Ages,631,19588,1349,269,14,1724,
+07/19/2023,10/01/2022,10/31/2022,By Month,Ohio,All Sexes,All Ages,475,11201,611,137,0,954,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Pennsylvania,All Sexes,All Ages,598,12330,692,187,0,1109,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,10/01/2022,10/31/2022,By Month,Texas,All Sexes,All Ages,477,19316,1120,186,39,1449,
+07/19/2023,11/01/2022,11/30/2022,By Month,California,All Sexes,All Ages,845,25984,1864,324,128,2510,
+07/19/2023,11/01/2022,11/30/2022,By Month,Florida,All Sexes,All Ages,494,18851,1245,219,63,1578,
+07/19/2023,11/01/2022,11/30/2022,By Month,Ohio,All Sexes,All Ages,549,11411,661,168,46,1085,
+07/19/2023,11/01/2022,11/30/2022,By Month,Pennsylvania,All Sexes,All Ages,610,12106,726,173,39,1196,
+07/19/2023,11/01/2022,11/30/2022,By Month,Texas,All Sexes,All Ages,401,19482,1210,163,157,1598,
+07/19/2023,12/01/2022,12/31/2022,By Month,California,All Sexes,All Ages,1704,30085,2717,713,383,4072,
+07/19/2023,12/01/2022,12/31/2022,By Month,Florida,All Sexes,All Ages,699,20806,1643,359,124,2100,
+07/19/2023,12/01/2022,12/31/2022,By Month,Ohio,All Sexes,All Ages,666,12814,780,195,243,1482,
+07/19/2023,12/01/2022,12/31/2022,By Month,Pennsylvania,All Sexes,All Ages,639,13632,834,178,212,1494,
+07/19/2023,12/01/2022,12/31/2022,By Month,Texas,All Sexes,All Ages,836,21909,1718,387,205,2355,
+07/19/2023,01/01/2023,01/31/2023,By Month,California,All Sexes,All Ages,1321,28193,2401,544,134,3295,
+07/19/2023,01/01/2023,01/31/2023,By Month,Florida,All Sexes,All Ages,991,22014,1905,525,137,2500,
+07/19/2023,01/01/2023,01/31/2023,By Month,Ohio,All Sexes,All Ages,631,11799,797,202,103,1323,
+07/19/2023,01/01/2023,01/31/2023,By Month,Pennsylvania,All Sexes,All Ages,749,13039,903,251,128,1525,
+07/19/2023,01/01/2023,01/31/2023,By Month,Texas,All Sexes,All Ages,1107,21623,1799,531,110,2472,
+07/19/2023,02/01/2023,02/28/2023,By Month,California,All Sexes,All Ages,749,24692,1928,316,16,2376,
+07/19/2023,02/01/2023,02/28/2023,By Month,Florida,All Sexes,All Ages,664,18687,1446,331,37,1812,
+07/19/2023,02/01/2023,02/28/2023,By Month,Ohio,All Sexes,All Ages,329,10172,532,91,15,783,
+07/19/2023,02/01/2023,02/28/2023,By Month,Pennsylvania,All Sexes,All Ages,473,11169,646,142,20,994,
+07/19/2023,02/01/2023,02/28/2023,By Month,Texas,All Sexes,All Ages,630,18858,1362,306,41,1720,
+07/19/2023,03/01/2023,03/31/2023,By Month,California,All Sexes,All Ages,708,26552,1909,298,15,2332,
+07/19/2023,03/01/2023,03/31/2023,By Month,Florida,All Sexes,All Ages,460,20298,1340,201,34,1631,
+07/19/2023,03/01/2023,03/31/2023,By Month,Ohio,All Sexes,All Ages,380,11313,594,128,0,853,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,03/01/2023,03/31/2023,By Month,Pennsylvania,All Sexes,All Ages,409,12033,679,110,13,990,
+07/19/2023,03/01/2023,03/31/2023,By Month,Texas,All Sexes,All Ages,456,19880,1282,196,26,1562,
+07/19/2023,04/01/2023,04/30/2023,By Month,California,All Sexes,All Ages,480,24350,1650,187,10,1952,
+07/19/2023,04/01/2023,04/30/2023,By Month,Florida,All Sexes,All Ages,351,18935,1244,155,17,1456,
+07/19/2023,04/01/2023,04/30/2023,By Month,Ohio,All Sexes,All Ages,270,10573,570,104,0,740,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Pennsylvania,All Sexes,All Ages,230,11170,627,72,0,789,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,04/01/2023,04/30/2023,By Month,Texas,All Sexes,All Ages,320,18540,1108,147,15,1293,
+07/19/2023,05/01/2023,05/31/2023,By Month,California,All Sexes,All Ages,359,23641,1512,137,0,1743,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Florida,All Sexes,All Ages,292,18948,1169,131,17,1345,
+07/19/2023,05/01/2023,05/31/2023,By Month,Ohio,All Sexes,All Ages,158,10462,499,52,0,607,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Pennsylvania,All Sexes,All Ages,135,11230,510,44,0,604,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,05/01/2023,05/31/2023,By Month,Texas,All Sexes,All Ages,223,18611,1088,111,11,1210,
+07/19/2023,06/01/2023,06/30/2023,By Month,California,All Sexes,All Ages,270,21290,1389,115,0,1551,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Florida,All Sexes,All Ages,288,17669,1061,124,11,1236,
+07/19/2023,06/01/2023,06/30/2023,By Month,Ohio,All Sexes,All Ages,96,8949,384,26,0,456,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Pennsylvania,All Sexes,All Ages,97,10334,473,27,0,547,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,06/01/2023,06/30/2023,By Month,Texas,All Sexes,All Ages,128,16246,884,53,0,966,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,California,All Sexes,All Ages,52,4985,293,22,0,324,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Florida,All Sexes,All Ages,87,5142,279,38,0,334,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Ohio,All Sexes,All Ages,0,1786,65,0,0,72,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Pennsylvania,All Sexes,All Ages,12,1518,78,0,0,86,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/19/2023,07/01/2023,07/15/2023,By Month,Texas,All Sexes,All Ages,15,3648,183,0,0,194,One or more data cells have counts between 1-9 and have been suppressed in accordance with NCHS confidentiality standards.
